@@ -1,0 +1,1 @@
+{"mean": 38.72585227272727, "std": 22.567051647052484, "feature_cols": ["favorite_game_genre_enc", "rank_tier_enc", "voice_chat_usage_enc", "platform_used_enc", "season_pass_enc", "active_status_enc", "in_game_purchases", "achievement_points", "matches_played", "win_rate", "friends_count", "streaming_hours", "latency_ms", "dlc_owned"]}

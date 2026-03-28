@@ -1,0 +1,261 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Sarabun', sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+
+
+nav {
+  background-color: #1a1a2e;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+nav a {
+  color: #ccc;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+nav a:hover,
+nav a.active {
+  color: #fff;
+}
+
+nav .nav-title {
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-right: auto;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+
+.card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+h1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  margin-top: 1.5rem;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  line-height: 1.6;
+  color: #555;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+
+th {
+  background: #f0f0f0;
+  padding: 0.6rem 1rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+td {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.form-group label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #444;
+}
+
+.form-group select,
+.form-group input {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-family: 'Sarabun', sans-serif;
+  background: #fff;
+}
+
+.form-group select:focus,
+.form-group input:focus {
+  outline: none;
+  border-color: #555;
+}
+
+.btn-predict {
+  width: 100%;
+  padding: 0.75rem;
+  background: #1a1a2e;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-family: 'Sarabun', sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.btn-predict:hover {
+  background: #2a2a4e;
+}
+
+.btn-predict:disabled {
+  background: #999;
+  cursor: not-allowed;
+}
+
+.result-box {
+  background: #1a1a2e;
+  color: #fff;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.result-box .result-label {
+  font-size: 0.95rem;
+  opacity: 0.8;
+  margin-bottom: 0.5rem;
+}
+
+.result-box .result-value {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.result-box .result-unit {
+  font-size: 1rem;
+  opacity: 0.7;
+  margin-top: 0.3rem;
+}
+
+.result-range {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.range-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 0.75rem;
+  text-align: center;
+}
+
+.range-card .range-label {
+  font-size: 0.8rem;
+  color: #666;
+  margin-bottom: 0.3rem;
+}
+
+.range-card .range-value {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.select-dataset {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.select-dataset button {
+  padding: 0.5rem 1.5rem;
+  border: 2px solid #1a1a2e;
+  border-radius: 6px;
+  background: #fff;
+  color: #1a1a2e;
+  font-family: 'Sarabun', sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.select-dataset button.active {
+  background: #1a1a2e;
+  color: #fff;
+}
+
+.error-box {
+  background: #fff0f0;
+  border-left: 4px solid #e74c3c;
+  padding: 1rem;
+  border-radius: 4px;
+  margin-top: 1rem;
+  color: #c0392b;
+}
+
+.info-box {
+  background: #f0f4ff;
+  border-left: 4px solid #3498db;
+  padding: 1rem;
+  border-radius: 4px;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+  color: #2c3e50;
+}
+
+.cols-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 1.5rem 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;600;700&display=swap');

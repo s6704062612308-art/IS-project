@@ -1,0 +1,1 @@
+{"mean": 45641.75, "std": 7180.620347380616, "feature_cols": ["major_enc", "university_enc", "job_role_enc", "company_size_enc", "province_enc", "gpa", "internship_count", "certifications", "english_score_toeic", "projects_count"]}
