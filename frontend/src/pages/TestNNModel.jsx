@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import axios from 'axios'
 
-const API = 'http://localhost:8000'
+const API = 'https://ml-backend-onpb.onrender.com'
 
 const GAMING_DEFAULTS = {
   genre: 'Sports',
