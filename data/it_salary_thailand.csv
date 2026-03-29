@@ -1,0 +1,1001 @@
+﻿major,university,gpa,internship_count,certifications,english_score_toeic,projects_count,job_role,company_size,province,salary_thb
+Software Engineering,มหาวิทยาลัยอื่น,2.93,0,5,641,7,UX/UI Designer,Startup,กรุงเทพ,41700
+Data Science,KMUTT,3.25,3,0,351,6,Software Developer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,48800
+Software Engineering,เชียงใหม่,2.71,0,3,851,9,Network Engineer,Startup,กรุงเทพ,44000
+Computer Science,จุฬาลงกรณ์,2.59,1,5,807,8,Data Analyst,SME,กรุงเทพ,51900
+Software Engineering,มหิดล,3.21,3,2,875,7,Data Analyst,Startup,กรุงเทพ,49100
+Computer Science,มหาวิทยาลัยอื่น,2.4,3,2,866,7,Network Engineer,บริษัทใหญ่ไทย,ปริมณฑล,46800
+Information Technology,ขอนแก่น,2.14,2,1,535,6,UX/UI Designer,Startup,กรุงเทพ,40200
+Cybersecurity,KMUTT,2.73,2,3,689,7,DevOps Engineer,SME,กรุงเทพ,54600
+Computer Engineering,KMUTT,3.3,1,3,319,6,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,55000
+Cybersecurity,จุฬาลงกรณ์,3.08,0,,595,5,Data Scientist,MNC (บริษัทข้ามชาติ),ปริมณฑล,53100
+Software Engineering,ธรรมศาสตร์,2.49,2,3,311,2,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,50300
+Data Science,มหิดล,2.42,2,0,773,4,IT Support,Startup,กรุงเทพ,39700
+Software Engineering,มหาวิทยาลัยอื่น,2.15,2,2,888,7,Data Analyst,MNC (บริษัทข้ามชาติ),ปริมณฑล,50300
+Software Engineering,KMUTT,2.15,3,2,,3,Network Engineer,SME,กรุงเทพ,42400
+Computer Science,ขอนแก่น,3.4,1,5,696,6,Data Analyst,MNC (บริษัทข้ามชาติ),ปริมณฑล,55100
+Computer Engineering,มศว,3.89,1,3,585,,IT Support,บริษัทใหญ่ไทย,ปริมณฑล,38500
+Data Science,มหาวิทยาลัยอื่น,3.28,2,2,555,1,Data Analyst,SME,ต่างจังหวัด,37300
+Data Science,เชียงใหม่,3.08,0,2,960,5,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,52400
+Cybersecurity,มศว,3.11,3,0,762,3,Network Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,48000
+Information Technology,KMUTT,3.42,3,0,487,6,Data Scientist,SME,ต่างจังหวัด,41500
+Computer Science,มหาวิทยาลัยอื่น,3.14,3,1,892,4,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,45500
+Cybersecurity,มหาวิทยาลัยอื่น,3.22,2,2,541,6,DevOps Engineer,Startup,กรุงเทพ,43300
+Computer Science,KMUTT,2.34,1,3,377,4,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,43400
+Computer Science,มหาวิทยาลัยอื่น,3.15,3,1,344,2,Network Engineer,บริษัทใหญ่ไทย,ปริมณฑล,40400
+Cybersecurity,KMUTT,3.47,1,1,560,8,Network Engineer,SME,กรุงเทพ,47500
+Software Engineering,KMUTT,3.64,1,5,708,3,IT Support,SME,กรุงเทพ,39700
+Data Science,เชียงใหม่,2.52,1,4,885,2,Software Developer,Startup,ปริมณฑล,40300
+Information Technology,KMUTT,2.26,0,4,601,1,DevOps Engineer,SME,กรุงเทพ,37500
+Data Science,มหาวิทยาลัยอื่น,2.61,2,2,,4,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,38900
+Computer Engineering,มศว,3.91,2,2,562,7,UX/UI Designer,บริษัทใหญ่ไทย,ต่างจังหวัด,41700
+Cybersecurity,มศว,2.9,3,3,917,5,Data Analyst,บริษัทใหญ่ไทย,ต่างจังหวัด,41700
+Cybersecurity,KMUTT,2.54,3,5,518,7,Software Developer,Startup,กรุงเทพ,52800
+Software Engineering,KMUTT,3.25,2,2,323,7,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,54200
+Software Engineering,ธรรมศาสตร์,3.65,2,1,464,9,Data Analyst,Startup,กรุงเทพ,51600
+Software Engineering,ขอนแก่น,3.03,1,2,445,6,Network Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,46600
+Computer Science,มหาวิทยาลัยอื่น,3.62,2,3,676,3,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,51800
+Computer Engineering,มหิดล,3.86,0,2,350,1,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,46900
+Software Engineering,เกษตรศาสตร์,3.04,3,3,380,8,UX/UI Designer,SME,กรุงเทพ,46400
+Data Science,KMUTT,2.37,0,4,583,8,Network Engineer,SME,กรุงเทพ,49400
+Data Science,ขอนแก่น,3.31,0,,808,9,Data Scientist,SME,กรุงเทพ,48600
+Information Technology,เกษตรศาสตร์,2.18,3,0,426,5,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,36700
+Information Technology,ธรรมศาสตร์,2.56,0,4,795,9,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,58800
+Data Science,มศว,2.24,0,1,321,,Software Developer,SME,กรุงเทพ,38600
+Computer Engineering,ธรรมศาสตร์,3.51,3,5,979,5,IT Support,Startup,ต่างจังหวัด,43200
+Cybersecurity,มหาวิทยาลัยอื่น,3.46,2,4,644,6,Software Developer,MNC (บริษัทข้ามชาติ),ปริมณฑล,52700
+Computer Science,มหาวิทยาลัยอื่น,2.78,0,0,,7,UX/UI Designer,Startup,กรุงเทพ,36500
+Cybersecurity,มศว,3.34,0,3,486,1,Network Engineer,Startup,ต่างจังหวัด,33100
+Computer Engineering,เชียงใหม่,2.72,0,1,923,8,UX/UI Designer,Startup,กรุงเทพ,38000
+Data Science,ขอนแก่น,3.24,3,1,505,1,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,44800
+Software Engineering,จุฬาลงกรณ์,2.53,0,0,412,8,DevOps Engineer,Startup,กรุงเทพ,47800
+Cybersecurity,เชียงใหม่,3.63,3,0,434,6,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,51200
+Data Science,จุฬาลงกรณ์,3.49,1,4,544,1,DevOps Engineer,บริษัทใหญ่ไทย,ปริมณฑล,53200
+Information Technology,KMUTT,3.53,2,4,857,4,UX/UI Designer,Startup,ปริมณฑล,47200
+Data Science,มศว,3.06,2,4,947,1,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,48800
+Computer Engineering,ขอนแก่น,2.99,3,4,927,9,Data Analyst,SME,ปริมณฑล,42400
+Software Engineering,ขอนแก่น,3.69,1,4,383,5,DevOps Engineer,บริษัทใหญ่ไทย,ต่างจังหวัด,45400
+Software Engineering,จุฬาลงกรณ์,3.59,1,0,848,0,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,56300
+Data Science,ธรรมศาสตร์,3.23,0,0,829,9,IT Support,Startup,ปริมณฑล,42600
+Software Engineering,ธรรมศาสตร์,2.94,0,,529,1,Data Analyst,Startup,ปริมณฑล,33900
+Cybersecurity,ธรรมศาสตร์,3.28,1,,601,6,Data Scientist,MNC (บริษัทข้ามชาติ),ปริมณฑล,59500
+Computer Engineering,มหาวิทยาลัยอื่น,2.73,1,2,904,8,IT Support,SME,กรุงเทพ,37100
+Cybersecurity,เกษตรศาสตร์,3.78,3,3,981,7,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,58400
+Data Science,เกษตรศาสตร์,,2,0,947,3,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,52800
+Computer Science,มศว,3.2,3,1,788,5,UX/UI Designer,บริษัทใหญ่ไทย,ต่างจังหวัด,42600
+Computer Science,จุฬาลงกรณ์,2.74,2,4,343,4,DevOps Engineer,SME,กรุงเทพ,52800
+Software Engineering,จุฬาลงกรณ์,2.07,2,5,591,8,Software Developer,Startup,กรุงเทพ,50100
+Information Technology,เชียงใหม่,3.75,2,0,835,1,UX/UI Designer,SME,ปริมณฑล,34800
+Software Engineering,มหิดล,2.3,2,0,931,0,Software Developer,Startup,ต่างจังหวัด,32600
+Computer Science,จุฬาลงกรณ์,2.51,1,3,,5,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,46400
+Data Science,ธรรมศาสตร์,3.76,1,2,369,,UX/UI Designer,Startup,ต่างจังหวัด,40900
+Computer Science,มศว,3.47,3,2,820,9,UX/UI Designer,Startup,กรุงเทพ,47500
+Computer Engineering,จุฬาลงกรณ์,3.3,0,0,402,2,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,47700
+Data Science,เชียงใหม่,2.77,3,1,852,5,Network Engineer,Startup,กรุงเทพ,50000
+Data Science,ธรรมศาสตร์,2.99,2,0,865,4,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,46100
+Information Technology,มหิดล,2.78,2,5,492,6,UX/UI Designer,Startup,ปริมณฑล,38900
+Computer Science,KMUTT,2.44,0,2,922,5,DevOps Engineer,Startup,ต่างจังหวัด,41300
+Computer Engineering,จุฬาลงกรณ์,3.91,2,4,933,4,UX/UI Designer,SME,ต่างจังหวัด,41300
+Computer Science,ธรรมศาสตร์,3.49,0,4,742,2,Network Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,51400
+Information Technology,ธรรมศาสตร์,2.32,0,1,660,4,Software Developer,Startup,กรุงเทพ,41800
+Data Science,ขอนแก่น,2.91,3,0,448,1,IT Support,Startup,กรุงเทพ,36300
+Information Technology,เชียงใหม่,,3,2,493,9,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,52900
+Data Science,เชียงใหม่,3.94,2,3,533,0,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,47300
+Information Technology,KMUTT,2.83,1,4,614,7,UX/UI Designer,Startup,ปริมณฑล,40000
+Cybersecurity,มหิดล,3.32,0,3,461,8,Data Analyst,SME,ปริมณฑล,44900
+Computer Science,ธรรมศาสตร์,2.09,0,1,850,7,Data Analyst,Startup,กรุงเทพ,44700
+Data Science,เชียงใหม่,2.81,2,0,665,9,UX/UI Designer,Startup,กรุงเทพ,43400
+Information Technology,ธรรมศาสตร์,3.89,3,0,969,7,Software Developer,Startup,ต่างจังหวัด,43300
+Data Science,มศว,2.17,0,0,359,4,Software Developer,SME,กรุงเทพ,39400
+Computer Engineering,มหิดล,3.26,2,4,710,9,Network Engineer,SME,กรุงเทพ,52900
+Computer Engineering,ขอนแก่น,3.2,0,3,888,8,Software Developer,บริษัทใหญ่ไทย,ปริมณฑล,47400
+Computer Engineering,เกษตรศาสตร์,2.09,1,4,631,7,Software Developer,บริษัทใหญ่ไทย,ต่างจังหวัด,41900
+Computer Engineering,เกษตรศาสตร์,,3,4,436,4,IT Support,Startup,กรุงเทพ,38400
+Software Engineering,มหิดล,3.65,3,5,593,7,Network Engineer,Startup,ต่างจังหวัด,45400
+Cybersecurity,เชียงใหม่,2.15,1,4,989,0,Data Analyst,Startup,ต่างจังหวัด,30800
+Cybersecurity,KMUTT,2.35,3,5,661,8,IT Support,บริษัทใหญ่ไทย,ปริมณฑล,42400
+Software Engineering,มหาวิทยาลัยอื่น,2.78,2,2,906,9,Network Engineer,Startup,ปริมณฑล,38600
+Computer Engineering,มหิดล,2.02,3,3,612,0,Data Analyst,บริษัทใหญ่ไทย,ปริมณฑล,36500
+Computer Engineering,เกษตรศาสตร์,3.15,3,4,946,7,Software Developer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,50000
+Data Science,ขอนแก่น,2.98,3,4,895,5,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,50900
+Data Science,KMUTT,2.88,2,2,376,5,DevOps Engineer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,52900
+Cybersecurity,มหิดล,3.04,3,5,576,2,UX/UI Designer,Startup,กรุงเทพ,51300
+Cybersecurity,มศว,2.66,3,1,839,9,Software Developer,MNC (บริษัทข้ามชาติ),กรุงเทพ,59400
+Software Engineering,มหิดล,3.64,2,0,413,7,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,48700
+Data Science,KMUTT,2.54,1,0,532,4,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,46400
+Data Science,จุฬาลงกรณ์,3.34,2,1,571,6,Network Engineer,Startup,ปริมณฑล,48400
+Computer Engineering,มหิดล,,0,1,864,9,DevOps Engineer,Startup,ปริมณฑล,46800
+Information Technology,มหิดล,2.31,2,3,809,3,DevOps Engineer,Startup,กรุงเทพ,41900
+Data Science,มหาวิทยาลัยอื่น,2.59,3,2,846,5,DevOps Engineer,Startup,ปริมณฑล,43500
+Computer Engineering,ธรรมศาสตร์,3.65,1,5,386,1,Network Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,48800
+Computer Science,จุฬาลงกรณ์,3.17,0,4,513,2,Network Engineer,บริษัทใหญ่ไทย,ปริมณฑล,43600
+Data Science,เชียงใหม่,3.1,0,5,960,4,Data Analyst,Startup,กรุงเทพ,43800
+Cybersecurity,มศว,2.95,0,0,353,7,Data Scientist,Startup,กรุงเทพ,44000
+Computer Engineering,KMUTT,2.5,3,2,419,9,Software Developer,บริษัทใหญ่ไทย,ปริมณฑล,46700
+Data Science,มหิดล,2.31,1,5,734,1,Software Developer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,49100
+Software Engineering,เชียงใหม่,2.52,2,1,893,4,DevOps Engineer,SME,ปริมณฑล,50000
+Computer Engineering,ธรรมศาสตร์,3.56,1,5,474,0,Software Developer,SME,ปริมณฑล,47200
+Computer Engineering,มหาวิทยาลัยอื่น,2.54,2,3,907,4,IT Support,Startup,กรุงเทพ,33200
+Computer Science,จุฬาลงกรณ์,2.22,1,2,661,1,UX/UI Designer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,40800
+Computer Science,มหาวิทยาลัยอื่น,2.73,1,3,549,6,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,50700
+Computer Science,ธรรมศาสตร์,2.29,3,1,858,,Data Analyst,SME,กรุงเทพ,47200
+Information Technology,มศว,2.7,0,5,793,2,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,56000
+Data Science,KMUTT,2.36,3,3,431,0,Data Scientist,Startup,ต่างจังหวัด,38500
+Cybersecurity,มหิดล,2.61,3,0,915,3,Data Analyst,Startup,กรุงเทพ,45200
+Computer Science,จุฬาลงกรณ์,,0,5,402,5,UX/UI Designer,Startup,ต่างจังหวัด,32600
+Computer Science,จุฬาลงกรณ์,3.77,3,0,562,3,Network Engineer,SME,ปริมณฑล,45900
+Data Science,KMUTT,3.76,0,4,409,9,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,62900
+Computer Science,มศว,3.44,0,3,545,0,Software Developer,Startup,กรุงเทพ,44000
+Software Engineering,มศว,3.53,3,5,418,8,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,62100
+Information Technology,มศว,2.58,2,5,859,9,DevOps Engineer,SME,กรุงเทพ,52200
+Computer Science,ธรรมศาสตร์,3.61,0,5,446,4,Network Engineer,บริษัทใหญ่ไทย,ปริมณฑล,45400
+Computer Science,ธรรมศาสตร์,2.75,2,0,608,2,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,47900
+Cybersecurity,มหาวิทยาลัยอื่น,3.14,1,3,859,9,Software Developer,Startup,กรุงเทพ,51900
+Data Science,จุฬาลงกรณ์,2.12,2,0,660,0,IT Support,Startup,ปริมณฑล,29900
+Software Engineering,จุฬาลงกรณ์,2.47,0,2,700,6,IT Support,Startup,กรุงเทพ,45300
+Computer Engineering,จุฬาลงกรณ์,3.79,0,3,470,5,Software Developer,SME,กรุงเทพ,44700
+Computer Science,เกษตรศาสตร์,2.81,1,4,,,Data Scientist,MNC (บริษัทข้ามชาติ),ปริมณฑล,55600
+Software Engineering,เกษตรศาสตร์,3.03,1,5,514,1,Software Developer,SME,ต่างจังหวัด,35500
+Information Technology,ธรรมศาสตร์,3.85,3,3,563,7,Network Engineer,Startup,กรุงเทพ,48900
+Information Technology,ธรรมศาสตร์,3.63,3,2,724,3,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,47100
+Information Technology,ขอนแก่น,2.85,2,3,648,5,IT Support,Startup,ต่างจังหวัด,28000
+Information Technology,มศว,2.68,0,5,515,4,Network Engineer,SME,ต่างจังหวัด,31200
+Cybersecurity,ขอนแก่น,3.45,2,5,870,8,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,59000
+Software Engineering,เกษตรศาสตร์,2.65,2,5,300,6,Software Developer,MNC (บริษัทข้ามชาติ),กรุงเทพ,56200
+Cybersecurity,KMUTT,2.4,0,0,512,0,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,37900
+Information Technology,มหิดล,3.7,1,4,586,3,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,56500
+Computer Science,มศว,2.62,3,0,393,2,Data Analyst,บริษัทใหญ่ไทย,ต่างจังหวัด,31300
+Information Technology,มหาวิทยาลัยอื่น,2.95,1,3,317,3,IT Support,Startup,กรุงเทพ,30100
+Computer Engineering,มศว,2.73,0,5,363,9,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,45600
+Data Science,ขอนแก่น,3.02,0,0,800,0,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,40800
+Computer Engineering,เชียงใหม่,3.64,0,2,330,9,Software Developer,บริษัทใหญ่ไทย,ปริมณฑล,37700
+Information Technology,มหิดล,2.2,3,5,612,6,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,43300
+Information Technology,เกษตรศาสตร์,3.29,2,2,427,1,Software Developer,บริษัทใหญ่ไทย,ปริมณฑล,41500
+Data Science,KMUTT,2.26,0,5,498,0,Network Engineer,บริษัทใหญ่ไทย,ต่างจังหวัด,37000
+Computer Engineering,เชียงใหม่,2.05,3,3,746,8,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,50600
+Information Technology,KMUTT,3.86,3,0,711,1,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,41400
+Information Technology,มหาวิทยาลัยอื่น,2.63,3,5,730,2,Software Developer,บริษัทใหญ่ไทย,ปริมณฑล,42900
+Information Technology,ขอนแก่น,2.93,2,5,836,0,UX/UI Designer,SME,ปริมณฑล,43100
+Software Engineering,มหิดล,3.01,3,4,482,1,UX/UI Designer,SME,ต่างจังหวัด,39400
+Data Science,มหาวิทยาลัยอื่น,3.03,1,2,834,4,Network Engineer,SME,ต่างจังหวัด,36000
+Data Science,เชียงใหม่,3.18,2,1,539,0,Software Developer,SME,ปริมณฑล,45100
+Data Science,เชียงใหม่,2.49,0,0,850,1,Data Scientist,Startup,ปริมณฑล,41200
+Information Technology,มหิดล,3.36,0,5,732,2,Software Developer,Startup,ต่างจังหวัด,33800
+Cybersecurity,ขอนแก่น,2.45,2,1,335,9,Data Scientist,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,47500
+Cybersecurity,มหิดล,3.2,3,5,833,7,IT Support,Startup,ปริมณฑล,46900
+Cybersecurity,มหาวิทยาลัยอื่น,2.64,1,5,352,5,IT Support,SME,กรุงเทพ,36100
+Software Engineering,ขอนแก่น,2.5,0,0,624,4,Software Developer,Startup,กรุงเทพ,33400
+Software Engineering,เกษตรศาสตร์,2.74,2,3,421,5,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,55700
+Information Technology,เชียงใหม่,3.63,1,1,917,7,Software Developer,Startup,กรุงเทพ,48900
+Data Science,จุฬาลงกรณ์,3.41,0,1,387,3,Software Developer,MNC (บริษัทข้ามชาติ),ปริมณฑล,57700
+Software Engineering,มศว,3.29,3,0,312,2,Network Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,46400
+Computer Engineering,ขอนแก่น,,3,0,574,0,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,39700
+Computer Engineering,มหิดล,2.5,1,1,760,7,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,51500
+Software Engineering,เชียงใหม่,3.3,0,3,691,4,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,42500
+Computer Engineering,ธรรมศาสตร์,2.53,3,0,408,4,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,48500
+Computer Science,เกษตรศาสตร์,3.23,1,5,880,9,DevOps Engineer,Startup,ปริมณฑล,50300
+Information Technology,มศว,2.22,2,3,621,0,UX/UI Designer,SME,ต่างจังหวัด,28800
+Cybersecurity,เกษตรศาสตร์,3.26,3,5,757,,UX/UI Designer,Startup,ปริมณฑล,47200
+Computer Science,ขอนแก่น,3.3,3,5,494,3,Network Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,55100
+Information Technology,KMUTT,2.1,3,3,650,0,UX/UI Designer,SME,กรุงเทพ,39200
+Computer Science,ธรรมศาสตร์,3.03,2,4,341,0,Software Developer,MNC (บริษัทข้ามชาติ),กรุงเทพ,52500
+Data Science,เกษตรศาสตร์,2.59,3,5,639,2,Software Developer,Startup,ต่างจังหวัด,41500
+Cybersecurity,เชียงใหม่,3.36,2,0,886,3,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,51500
+Information Technology,มหิดล,3.3,1,1,386,3,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,37600
+Computer Engineering,KMUTT,3.23,0,4,386,,Data Scientist,Startup,กรุงเทพ,52800
+Computer Engineering,KMUTT,3.8,1,3,508,9,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,56100
+Computer Science,KMUTT,3.8,2,5,714,2,Data Analyst,SME,ปริมณฑล,51500
+Software Engineering,KMUTT,2.68,1,5,819,,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,54500
+Computer Science,มหิดล,,0,4,462,4,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,44800
+Computer Engineering,KMUTT,3.63,0,0,467,7,IT Support,SME,กรุงเทพ,41800
+Data Science,มหาวิทยาลัยอื่น,2.39,1,3,951,9,IT Support,Startup,ปริมณฑล,34400
+Data Science,จุฬาลงกรณ์,2.02,2,5,823,7,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,64100
+Computer Engineering,KMUTT,3.5,2,1,801,4,IT Support,Startup,กรุงเทพ,35400
+Software Engineering,KMUTT,2.86,3,4,573,4,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,55300
+Computer Science,มหิดล,3.58,2,0,577,7,Software Developer,Startup,กรุงเทพ,51300
+Data Science,จุฬาลงกรณ์,2.76,0,4,513,,Data Analyst,Startup,กรุงเทพ,45000
+Software Engineering,มหิดล,3.24,1,3,303,6,UX/UI Designer,SME,ปริมณฑล,43700
+Information Technology,มศว,3.64,2,5,954,0,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,46700
+Computer Engineering,มศว,3.12,1,5,975,2,Software Developer,MNC (บริษัทข้ามชาติ),กรุงเทพ,52800
+Computer Engineering,ธรรมศาสตร์,3.78,2,2,934,7,UX/UI Designer,SME,กรุงเทพ,52400
+Computer Engineering,เกษตรศาสตร์,3.36,1,3,,7,DevOps Engineer,SME,กรุงเทพ,54000
+Information Technology,ธรรมศาสตร์,2.26,2,0,548,5,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,42400
+Computer Science,เกษตรศาสตร์,3.34,0,0,544,1,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,53300
+Computer Science,มศว,3.13,3,0,,1,Network Engineer,SME,ปริมณฑล,39100
+Computer Science,KMUTT,2.9,1,1,949,4,DevOps Engineer,SME,กรุงเทพ,44700
+Cybersecurity,จุฬาลงกรณ์,3.36,2,0,357,4,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,60400
+Computer Science,KMUTT,2.1,3,5,730,,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,47900
+Software Engineering,เชียงใหม่,2.24,1,4,668,1,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,51500
+Software Engineering,เชียงใหม่,3.28,3,0,905,0,Software Developer,บริษัทใหญ่ไทย,ต่างจังหวัด,44700
+Computer Science,มศว,3.56,0,4,700,7,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,44000
+Information Technology,จุฬาลงกรณ์,2.36,1,0,980,1,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,48500
+Computer Science,มหิดล,2.42,2,1,409,2,DevOps Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,51800
+Information Technology,จุฬาลงกรณ์,3.86,0,5,926,4,DevOps Engineer,SME,ต่างจังหวัด,44800
+Software Engineering,ขอนแก่น,3.98,2,4,467,4,UX/UI Designer,SME,กรุงเทพ,47900
+Software Engineering,เชียงใหม่,2.36,3,1,617,4,DevOps Engineer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,48400
+Cybersecurity,เชียงใหม่,2.88,3,4,305,5,Data Scientist,SME,ปริมณฑล,46800
+Computer Science,ธรรมศาสตร์,3.86,3,5,333,0,UX/UI Designer,บริษัทใหญ่ไทย,ต่างจังหวัด,44800
+Computer Science,เกษตรศาสตร์,2.71,3,3,526,4,UX/UI Designer,Startup,ต่างจังหวัด,40800
+Computer Engineering,มหิดล,2.0,1,2,694,,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,45100
+Information Technology,ขอนแก่น,2.49,1,3,437,8,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,49200
+Information Technology,ขอนแก่น,3.03,2,4,840,5,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,53700
+Data Science,มหิดล,,1,3,938,7,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,53300
+Computer Science,ธรรมศาสตร์,2.7,1,3,937,6,DevOps Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,55600
+Computer Engineering,เกษตรศาสตร์,2.54,0,2,735,9,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,46900
+Information Technology,เกษตรศาสตร์,3.72,3,1,689,1,DevOps Engineer,SME,กรุงเทพ,46800
+Information Technology,ขอนแก่น,3.91,2,0,873,8,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,53500
+Computer Engineering,เชียงใหม่,3.84,0,3,718,6,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,58100
+Software Engineering,มหาวิทยาลัยอื่น,2.0,2,0,917,9,UX/UI Designer,SME,กรุงเทพ,43900
+Computer Engineering,มหิดล,2.13,0,1,972,2,Data Analyst,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,47000
+Cybersecurity,เกษตรศาสตร์,3.01,1,2,714,8,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,53200
+Computer Engineering,เกษตรศาสตร์,2.59,3,4,679,7,Data Analyst,บริษัทใหญ่ไทย,ต่างจังหวัด,44800
+Cybersecurity,ธรรมศาสตร์,3.93,2,2,598,4,Network Engineer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,44900
+Data Science,ธรรมศาสตร์,2.55,0,2,801,3,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,53100
+Information Technology,KMUTT,3.75,2,0,505,3,IT Support,SME,ต่างจังหวัด,31800
+Software Engineering,มหิดล,2.91,3,4,519,4,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,63100
+Software Engineering,เกษตรศาสตร์,3.51,1,4,691,4,Software Developer,SME,ปริมณฑล,46700
+Cybersecurity,มหิดล,3.55,3,5,848,0,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,55500
+Information Technology,KMUTT,3.54,3,4,811,5,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,56000
+Computer Engineering,จุฬาลงกรณ์,3.99,0,3,916,2,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,43200
+Computer Engineering,มหิดล,3.48,0,3,989,1,IT Support,SME,กรุงเทพ,40300
+Cybersecurity,จุฬาลงกรณ์,3.23,0,2,588,9,Software Developer,Startup,กรุงเทพ,50200
+Computer Science,จุฬาลงกรณ์,2.24,0,3,747,3,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,44400
+Computer Science,เชียงใหม่,2.62,1,2,852,4,Data Analyst,Startup,กรุงเทพ,39800
+Cybersecurity,มศว,2.05,3,4,398,7,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,43600
+Data Science,ธรรมศาสตร์,2.72,0,,520,9,Data Analyst,Startup,ปริมณฑล,40200
+Computer Engineering,ขอนแก่น,3.76,0,4,722,6,DevOps Engineer,Startup,ต่างจังหวัด,43500
+Computer Engineering,ธรรมศาสตร์,2.72,0,0,860,1,DevOps Engineer,SME,ต่างจังหวัด,34500
+Information Technology,ขอนแก่น,3.12,0,,855,0,Data Scientist,Startup,ต่างจังหวัด,32500
+Data Science,เกษตรศาสตร์,3.43,0,3,452,1,Software Developer,SME,กรุงเทพ,46100
+Computer Engineering,KMUTT,3.43,1,3,666,5,UX/UI Designer,Startup,กรุงเทพ,45200
+Software Engineering,มหิดล,3.09,1,1,307,6,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,52100
+Data Science,เกษตรศาสตร์,3.46,3,0,815,6,DevOps Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,57100
+Software Engineering,มหาวิทยาลัยอื่น,2.71,0,,574,4,DevOps Engineer,Startup,ต่างจังหวัด,34400
+Computer Science,จุฬาลงกรณ์,3.37,2,2,750,6,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,54700
+Computer Science,จุฬาลงกรณ์,2.59,3,5,944,0,Data Scientist,Startup,กรุงเทพ,56900
+Cybersecurity,KMUTT,2.13,3,3,351,1,Data Analyst,MNC (บริษัทข้ามชาติ),ปริมณฑล,46200
+Information Technology,เกษตรศาสตร์,3.0,0,4,531,3,IT Support,Startup,กรุงเทพ,31100
+Information Technology,เชียงใหม่,3.38,0,4,866,4,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,46300
+Software Engineering,ธรรมศาสตร์,2.75,1,4,410,5,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,48900
+Computer Science,เกษตรศาสตร์,2.02,1,4,683,8,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,42000
+Computer Science,เชียงใหม่,3.14,1,5,436,4,IT Support,SME,กรุงเทพ,38700
+Computer Engineering,เชียงใหม่,2.53,0,5,612,5,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,47700
+Data Science,มหาวิทยาลัยอื่น,3.82,2,0,606,7,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,49500
+Cybersecurity,มหาวิทยาลัยอื่น,2.83,3,0,306,6,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,45500
+Software Engineering,ธรรมศาสตร์,,1,1,826,6,Data Analyst,Startup,กรุงเทพ,49900
+Data Science,เชียงใหม่,2.73,0,4,610,8,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,57900
+Computer Engineering,เกษตรศาสตร์,3.09,2,0,727,5,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,52300
+Software Engineering,เชียงใหม่,,3,3,754,6,UX/UI Designer,SME,ต่างจังหวัด,37000
+Cybersecurity,มศว,2.85,3,1,802,0,Network Engineer,Startup,กรุงเทพ,45600
+Information Technology,เกษตรศาสตร์,3.65,1,4,837,5,DevOps Engineer,บริษัทใหญ่ไทย,ปริมณฑล,46600
+Software Engineering,มศว,2.28,1,2,518,4,DevOps Engineer,SME,ปริมณฑล,37800
+Information Technology,มหาวิทยาลัยอื่น,2.97,0,1,664,3,IT Support,Startup,ปริมณฑล,23900
+Software Engineering,มหิดล,3.06,1,,787,8,Network Engineer,SME,ต่างจังหวัด,40900
+Cybersecurity,มศว,2.27,0,4,622,4,Data Scientist,Startup,กรุงเทพ,42900
+Computer Science,มหาวิทยาลัยอื่น,2.53,3,5,910,8,UX/UI Designer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,45500
+Computer Science,มหิดล,3.63,2,0,456,4,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,50000
+Computer Engineering,ธรรมศาสตร์,3.5,0,5,464,7,Data Analyst,บริษัทใหญ่ไทย,ต่างจังหวัด,41400
+Information Technology,KMUTT,2.32,0,2,662,1,Data Scientist,Startup,ปริมณฑล,38000
+Cybersecurity,ธรรมศาสตร์,3.33,3,4,638,5,Network Engineer,Startup,ปริมณฑล,49900
+Computer Engineering,มหาวิทยาลัยอื่น,3.78,3,2,561,7,Software Developer,บริษัทใหญ่ไทย,ต่างจังหวัด,49000
+Information Technology,ธรรมศาสตร์,,2,0,380,5,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,44200
+Cybersecurity,KMUTT,2.03,2,3,365,,Data Analyst,บริษัทใหญ่ไทย,ต่างจังหวัด,37700
+Software Engineering,มหิดล,3.43,2,1,549,,Data Scientist,SME,ปริมณฑล,48800
+Computer Engineering,KMUTT,,3,4,952,1,Data Analyst,บริษัทใหญ่ไทย,ปริมณฑล,52100
+Computer Science,ธรรมศาสตร์,2.27,0,4,751,0,Software Developer,MNC (บริษัทข้ามชาติ),ปริมณฑล,47200
+Data Science,มหาวิทยาลัยอื่น,2.23,1,,900,5,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,51600
+Software Engineering,มหิดล,3.1,2,,975,9,IT Support,SME,กรุงเทพ,46900
+Cybersecurity,มหาวิทยาลัยอื่น,3.67,0,5,844,5,DevOps Engineer,SME,กรุงเทพ,45800
+Computer Science,มหิดล,3.0,3,,368,2,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,55200
+Data Science,ขอนแก่น,3.88,3,2,,4,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,59000
+Information Technology,มหาวิทยาลัยอื่น,3.03,0,1,988,5,Data Analyst,บริษัทใหญ่ไทย,ต่างจังหวัด,32200
+Data Science,KMUTT,3.78,0,4,857,1,Network Engineer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,54100
+Computer Science,จุฬาลงกรณ์,3.08,0,2,350,4,Data Analyst,บริษัทใหญ่ไทย,ปริมณฑล,44100
+Cybersecurity,ขอนแก่น,2.34,2,3,791,4,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,44400
+Cybersecurity,เชียงใหม่,3.94,2,4,517,6,Network Engineer,Startup,กรุงเทพ,50800
+Data Science,จุฬาลงกรณ์,2.87,1,2,483,5,IT Support,Startup,กรุงเทพ,37600
+Computer Engineering,เชียงใหม่,2.76,2,2,355,2,Software Developer,บริษัทใหญ่ไทย,ต่างจังหวัด,37900
+Software Engineering,เกษตรศาสตร์,2.89,2,4,854,6,Software Developer,SME,กรุงเทพ,53700
+Cybersecurity,มหาวิทยาลัยอื่น,3.26,3,3,685,4,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,51700
+Computer Engineering,มหิดล,2.92,2,0,517,,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,52000
+Information Technology,มศว,2.29,1,4,330,2,Software Developer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,43300
+Computer Engineering,มศว,3.28,2,5,635,3,DevOps Engineer,SME,กรุงเทพ,49500
+Computer Engineering,ธรรมศาสตร์,3.27,3,4,748,0,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,55900
+Data Science,KMUTT,3.43,0,0,502,8,Data Analyst,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,47100
+Computer Science,ขอนแก่น,,3,5,386,9,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,56200
+Data Science,ธรรมศาสตร์,3.1,2,0,793,1,IT Support,SME,ปริมณฑล,36500
+Computer Engineering,ขอนแก่น,3.43,2,3,406,3,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,46600
+Data Science,ขอนแก่น,2.08,2,1,692,6,UX/UI Designer,Startup,กรุงเทพ,43400
+Information Technology,KMUTT,2.57,0,5,,5,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,39000
+Information Technology,เกษตรศาสตร์,3.03,1,3,557,6,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,52300
+Information Technology,KMUTT,2.97,3,1,339,2,IT Support,Startup,กรุงเทพ,37000
+Cybersecurity,ขอนแก่น,3.7,2,1,817,4,DevOps Engineer,SME,กรุงเทพ,49100
+Software Engineering,ธรรมศาสตร์,2.52,0,5,807,3,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,50200
+Computer Science,ขอนแก่น,2.69,0,2,630,9,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,42300
+Data Science,มศว,3.52,2,0,388,0,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,41400
+Data Science,ขอนแก่น,3.4,2,4,765,3,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,57600
+Data Science,ขอนแก่น,3.9,1,5,604,4,Data Scientist,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,52100
+Software Engineering,เกษตรศาสตร์,2.33,2,2,367,2,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,38400
+Computer Science,เกษตรศาสตร์,,2,0,723,5,DevOps Engineer,SME,กรุงเทพ,53800
+Software Engineering,มศว,,0,1,491,4,Data Analyst,Startup,ปริมณฑล,34800
+Information Technology,KMUTT,3.99,0,2,661,9,IT Support,Startup,ปริมณฑล,35200
+Cybersecurity,เกษตรศาสตร์,2.02,3,0,781,0,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,43000
+Cybersecurity,ธรรมศาสตร์,3.08,2,0,794,9,Data Analyst,SME,ต่างจังหวัด,44100
+Computer Engineering,จุฬาลงกรณ์,3.6,0,4,663,5,IT Support,SME,ต่างจังหวัด,30000
+Data Science,เชียงใหม่,3.26,2,2,709,9,Software Developer,Startup,ปริมณฑล,45300
+Data Science,มศว,3.28,2,2,329,9,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,48400
+Cybersecurity,ธรรมศาสตร์,3.72,0,1,419,0,Network Engineer,SME,กรุงเทพ,42100
+Cybersecurity,จุฬาลงกรณ์,3.22,3,5,440,3,Software Developer,Startup,ปริมณฑล,47500
+Data Science,มศว,2.78,3,5,888,4,Data Analyst,Startup,ปริมณฑล,48600
+Computer Engineering,ธรรมศาสตร์,,3,4,311,1,Software Developer,บริษัทใหญ่ไทย,ปริมณฑล,49500
+Cybersecurity,ขอนแก่น,2.03,0,4,376,5,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,46200
+Software Engineering,ธรรมศาสตร์,2.06,2,1,553,,Software Developer,SME,กรุงเทพ,47700
+Computer Science,มศว,3.69,1,5,424,0,Network Engineer,Startup,ต่างจังหวัด,35500
+Computer Engineering,เกษตรศาสตร์,2.29,2,4,861,0,IT Support,SME,กรุงเทพ,38300
+Data Science,เชียงใหม่,3.51,3,5,359,0,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,53000
+Cybersecurity,ขอนแก่น,3.85,0,0,927,5,Network Engineer,Startup,ต่างจังหวัด,37200
+Software Engineering,มหาวิทยาลัยอื่น,2.76,3,2,311,,Network Engineer,Startup,ปริมณฑล,37300
+Cybersecurity,เกษตรศาสตร์,2.66,3,3,683,1,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,50900
+Computer Science,จุฬาลงกรณ์,3.89,3,2,715,1,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,52500
+Information Technology,มหิดล,2.32,2,2,923,9,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,61700
+Computer Science,KMUTT,2.83,2,1,724,6,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,46300
+Cybersecurity,ขอนแก่น,2.26,2,1,416,3,Software Developer,MNC (บริษัทข้ามชาติ),กรุงเทพ,46500
+Computer Science,มหาวิทยาลัยอื่น,2.59,1,0,381,6,DevOps Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,47700
+Cybersecurity,มหาวิทยาลัยอื่น,3.96,2,1,917,1,IT Support,บริษัทใหญ่ไทย,ต่างจังหวัด,31700
+Data Science,มศว,3.5,0,3,652,8,Data Scientist,SME,ต่างจังหวัด,45200
+Data Science,ขอนแก่น,3.65,2,2,775,5,Data Analyst,Startup,กรุงเทพ,50000
+Data Science,มศว,2.88,2,4,607,1,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,60300
+Data Science,มหิดล,2.53,1,,922,1,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,52200
+Information Technology,มหิดล,2.41,2,0,837,5,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,52600
+Cybersecurity,มศว,2.15,0,4,889,3,Data Analyst,Startup,ปริมณฑล,38200
+Cybersecurity,เชียงใหม่,2.82,2,0,624,,DevOps Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,52600
+Computer Science,ขอนแก่น,,0,0,745,1,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,41700
+Software Engineering,ขอนแก่น,2.87,3,4,655,3,Software Developer,SME,ปริมณฑล,49600
+Software Engineering,เกษตรศาสตร์,3.19,0,4,808,9,DevOps Engineer,SME,กรุงเทพ,52000
+Data Science,KMUTT,2.29,3,0,314,6,Network Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,50000
+Computer Science,เชียงใหม่,2.55,3,1,426,9,Network Engineer,Startup,กรุงเทพ,44400
+Information Technology,เชียงใหม่,3.59,3,2,519,6,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,52000
+Data Science,มศว,2.47,2,3,,4,DevOps Engineer,Startup,กรุงเทพ,48300
+Cybersecurity,มหาวิทยาลัยอื่น,3.71,0,5,624,5,DevOps Engineer,บริษัทใหญ่ไทย,ต่างจังหวัด,45500
+Data Science,มศว,3.44,1,2,905,7,Software Developer,Startup,กรุงเทพ,49200
+Cybersecurity,KMUTT,2.21,2,3,313,9,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,50200
+Computer Engineering,จุฬาลงกรณ์,3.61,0,0,382,2,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,48100
+Cybersecurity,KMUTT,3.94,3,1,310,0,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,48300
+Software Engineering,จุฬาลงกรณ์,2.97,3,5,751,3,Data Scientist,Startup,ต่างจังหวัด,49000
+Data Science,จุฬาลงกรณ์,3.03,1,1,547,5,Network Engineer,SME,ปริมณฑล,43500
+Information Technology,KMUTT,2.96,3,5,623,5,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,48400
+Cybersecurity,ขอนแก่น,3.39,3,0,312,0,UX/UI Designer,SME,ปริมณฑล,42700
+Information Technology,จุฬาลงกรณ์,2.16,3,,832,0,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,41500
+Computer Science,ขอนแก่น,2.24,0,1,861,1,Data Analyst,SME,กรุงเทพ,38100
+Software Engineering,KMUTT,2.57,1,0,930,7,Data Analyst,บริษัทใหญ่ไทย,ปริมณฑล,41300
+Computer Science,ขอนแก่น,2.18,2,3,804,3,Data Analyst,MNC (บริษัทข้ามชาติ),ปริมณฑล,47500
+Cybersecurity,ธรรมศาสตร์,2.54,2,1,822,7,Software Developer,Startup,ปริมณฑล,43500
+Cybersecurity,เชียงใหม่,2.32,0,3,420,1,Data Analyst,Startup,ปริมณฑล,34100
+Cybersecurity,เชียงใหม่,2.59,2,1,619,5,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,47700
+Computer Engineering,ขอนแก่น,3.48,1,4,569,9,UX/UI Designer,SME,ปริมณฑล,41200
+Data Science,มหาวิทยาลัยอื่น,3.92,3,4,510,5,Network Engineer,SME,กรุงเทพ,46400
+Computer Engineering,มหาวิทยาลัยอื่น,2.48,0,4,409,7,UX/UI Designer,Startup,กรุงเทพ,37300
+Software Engineering,มหาวิทยาลัยอื่น,3.16,1,,914,4,DevOps Engineer,SME,กรุงเทพ,43000
+Computer Science,จุฬาลงกรณ์,3.4,2,1,540,8,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,48900
+Data Science,KMUTT,3.7,1,4,560,4,Software Developer,บริษัทใหญ่ไทย,ต่างจังหวัด,46900
+Software Engineering,ธรรมศาสตร์,2.11,0,5,684,9,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,48900
+Cybersecurity,ธรรมศาสตร์,3.4,1,0,726,6,Software Developer,SME,กรุงเทพ,52100
+Software Engineering,ธรรมศาสตร์,2.88,0,5,736,3,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,56900
+Computer Engineering,มหาวิทยาลัยอื่น,3.09,1,4,370,0,IT Support,บริษัทใหญ่ไทย,ต่างจังหวัด,31200
+Computer Science,เกษตรศาสตร์,3.76,0,3,895,8,Network Engineer,บริษัทใหญ่ไทย,ต่างจังหวัด,42900
+Computer Engineering,มหาวิทยาลัยอื่น,3.53,3,5,470,6,Data Scientist,SME,ต่างจังหวัด,42800
+Cybersecurity,มศว,2.5,1,4,690,9,DevOps Engineer,SME,กรุงเทพ,50900
+Computer Engineering,เกษตรศาสตร์,2.44,1,1,692,4,Network Engineer,SME,กรุงเทพ,41000
+Computer Science,เกษตรศาสตร์,3.98,2,5,604,9,DevOps Engineer,SME,กรุงเทพ,56300
+Information Technology,ธรรมศาสตร์,2.46,3,,510,4,Data Scientist,MNC (บริษัทข้ามชาติ),ปริมณฑล,57300
+Computer Engineering,มหาวิทยาลัยอื่น,3.26,3,4,479,0,IT Support,SME,ต่างจังหวัด,27300
+Computer Science,เกษตรศาสตร์,3.15,2,3,795,6,IT Support,Startup,กรุงเทพ,42900
+Information Technology,เกษตรศาสตร์,2.92,3,3,936,3,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,55400
+Data Science,เกษตรศาสตร์,2.17,2,1,813,5,Network Engineer,Startup,ปริมณฑล,37400
+Software Engineering,มศว,2.8,1,0,469,6,UX/UI Designer,SME,ปริมณฑล,37000
+Software Engineering,เกษตรศาสตร์,2.79,2,1,733,4,IT Support,Startup,กรุงเทพ,39600
+Computer Engineering,ธรรมศาสตร์,2.5,1,4,704,7,Data Scientist,SME,กรุงเทพ,56100
+Cybersecurity,มหิดล,2.72,3,4,344,5,IT Support,SME,ปริมณฑล,37400
+Computer Engineering,ธรรมศาสตร์,3.17,0,1,396,1,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,38000
+Computer Science,ขอนแก่น,2.33,3,1,508,1,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,44200
+Computer Engineering,มหิดล,3.6,3,3,820,5,Data Scientist,SME,กรุงเทพ,58000
+Computer Engineering,มศว,2.17,2,3,445,4,Data Analyst,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,37000
+Information Technology,จุฬาลงกรณ์,3.34,1,5,683,7,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,57700
+Information Technology,ธรรมศาสตร์,3.08,3,1,730,9,UX/UI Designer,SME,ต่างจังหวัด,34800
+Data Science,ธรรมศาสตร์,2.03,1,0,455,7,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,44300
+Data Science,มหาวิทยาลัยอื่น,3.08,1,2,719,1,Data Scientist,MNC (บริษัทข้ามชาติ),ปริมณฑล,54200
+Computer Science,ขอนแก่น,3.52,1,1,824,5,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,48700
+Information Technology,เกษตรศาสตร์,3.03,0,2,854,6,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,52200
+Cybersecurity,เชียงใหม่,3.45,3,2,303,5,IT Support,บริษัทใหญ่ไทย,ต่างจังหวัด,35200
+Computer Engineering,จุฬาลงกรณ์,2.36,3,5,898,4,Data Scientist,SME,ต่างจังหวัด,50600
+Information Technology,ขอนแก่น,3.32,1,3,604,6,Software Developer,MNC (บริษัทข้ามชาติ),ปริมณฑล,51800
+Information Technology,KMUTT,2.02,1,4,509,3,IT Support,SME,ต่างจังหวัด,27600
+Computer Engineering,เกษตรศาสตร์,3.32,3,4,382,7,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,52900
+Cybersecurity,KMUTT,3.69,1,3,748,3,Software Developer,Startup,ปริมณฑล,44800
+Computer Science,มหาวิทยาลัยอื่น,3.84,1,2,413,9,Data Analyst,Startup,ปริมณฑล,39700
+Data Science,มหาวิทยาลัยอื่น,2.99,1,3,667,5,UX/UI Designer,Startup,ปริมณฑล,40400
+Information Technology,จุฬาลงกรณ์,3.89,1,3,345,3,UX/UI Designer,Startup,กรุงเทพ,43300
+Information Technology,จุฬาลงกรณ์,2.53,0,2,429,4,Data Analyst,บริษัทใหญ่ไทย,ปริมณฑล,41700
+Information Technology,เชียงใหม่,2.81,2,0,782,0,IT Support,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,34100
+Computer Engineering,มหาวิทยาลัยอื่น,3.36,0,0,803,5,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,51500
+Computer Science,เชียงใหม่,3.37,0,1,375,4,Network Engineer,Startup,ปริมณฑล,37400
+Computer Science,มหาวิทยาลัยอื่น,3.09,1,4,362,9,Data Analyst,SME,กรุงเทพ,42600
+Software Engineering,ขอนแก่น,2.78,2,0,617,8,IT Support,Startup,กรุงเทพ,36900
+Software Engineering,เกษตรศาสตร์,2.76,2,5,663,6,Network Engineer,Startup,กรุงเทพ,44600
+Information Technology,ขอนแก่น,3.95,0,3,686,6,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,46800
+Computer Science,มศว,2.9,1,3,536,5,Data Analyst,บริษัทใหญ่ไทย,ปริมณฑล,41100
+Data Science,เกษตรศาสตร์,2.65,0,1,456,9,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,44000
+Software Engineering,ธรรมศาสตร์,2.37,1,1,964,4,DevOps Engineer,SME,กรุงเทพ,49900
+Information Technology,KMUTT,3.17,2,4,590,2,Data Analyst,บริษัทใหญ่ไทย,ปริมณฑล,48100
+Computer Science,มศว,3.98,2,,452,6,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,47500
+Data Science,มหาวิทยาลัยอื่น,3.92,1,0,784,5,DevOps Engineer,บริษัทใหญ่ไทย,ปริมณฑล,50800
+Cybersecurity,KMUTT,2.71,3,5,697,2,UX/UI Designer,Startup,ต่างจังหวัด,33900
+Cybersecurity,KMUTT,2.31,2,5,657,6,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,54600
+Data Science,มศว,3.34,0,2,838,0,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,44100
+Information Technology,มศว,3.36,0,3,563,3,DevOps Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,49700
+Computer Science,ขอนแก่น,3.1,2,3,717,5,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,51700
+Data Science,มศว,2.7,0,5,792,2,UX/UI Designer,SME,กรุงเทพ,40600
+Cybersecurity,ธรรมศาสตร์,2.79,2,4,427,0,DevOps Engineer,Startup,กรุงเทพ,46400
+Software Engineering,เชียงใหม่,3.74,3,5,796,3,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,58700
+Information Technology,จุฬาลงกรณ์,3.4,3,4,841,7,Data Analyst,บริษัทใหญ่ไทย,ต่างจังหวัด,44800
+Information Technology,มหาวิทยาลัยอื่น,3.12,0,4,803,8,Data Scientist,Startup,กรุงเทพ,42100
+Software Engineering,ธรรมศาสตร์,3.41,1,1,523,1,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,49300
+Cybersecurity,ธรรมศาสตร์,2.62,0,1,423,0,Data Analyst,Startup,กรุงเทพ,38000
+Data Science,ขอนแก่น,3.5,3,2,,6,Data Analyst,SME,กรุงเทพ,53700
+Software Engineering,เชียงใหม่,2.82,3,1,978,1,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,62500
+Information Technology,เกษตรศาสตร์,2.65,2,0,517,2,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,37700
+Data Science,ขอนแก่น,2.69,2,0,327,3,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,44300
+Computer Engineering,KMUTT,3.23,0,1,554,7,UX/UI Designer,SME,ต่างจังหวัด,37000
+Data Science,มหิดล,,0,3,533,8,IT Support,SME,ปริมณฑล,39800
+Computer Science,มหิดล,3.78,0,4,380,3,Data Analyst,Startup,ปริมณฑล,43300
+Computer Science,เชียงใหม่,3.19,3,0,813,6,UX/UI Designer,Startup,ปริมณฑล,40000
+Cybersecurity,มหาวิทยาลัยอื่น,3.87,2,5,359,3,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,53100
+Information Technology,ธรรมศาสตร์,3.07,0,1,376,6,Data Scientist,Startup,กรุงเทพ,48100
+Cybersecurity,มหาวิทยาลัยอื่น,3.69,2,5,797,7,Software Developer,SME,กรุงเทพ,54800
+Data Science,มศว,3.58,0,2,933,1,Data Analyst,Startup,กรุงเทพ,48200
+Software Engineering,KMUTT,3.77,0,1,806,8,Data Analyst,SME,ปริมณฑล,46700
+Data Science,เชียงใหม่,3.73,0,2,,0,Software Developer,Startup,กรุงเทพ,45400
+Software Engineering,เชียงใหม่,2.96,3,3,360,8,Data Scientist,SME,กรุงเทพ,54300
+Information Technology,จุฬาลงกรณ์,3.74,0,3,346,7,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,57300
+Cybersecurity,KMUTT,2.11,0,4,430,9,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,51900
+Computer Engineering,มหาวิทยาลัยอื่น,2.8,2,0,578,4,UX/UI Designer,SME,กรุงเทพ,38700
+Data Science,ขอนแก่น,2.29,2,2,931,7,UX/UI Designer,SME,ปริมณฑล,43300
+Computer Engineering,KMUTT,,0,2,753,3,UX/UI Designer,SME,กรุงเทพ,37800
+Data Science,KMUTT,3.09,2,4,421,6,Data Scientist,Startup,ปริมณฑล,53600
+Information Technology,มหาวิทยาลัยอื่น,2.97,0,3,462,0,Network Engineer,SME,กรุงเทพ,31500
+Information Technology,ขอนแก่น,2.82,1,3,514,4,Network Engineer,SME,กรุงเทพ,41800
+Computer Science,จุฬาลงกรณ์,,0,0,792,5,Data Scientist,Startup,กรุงเทพ,47600
+Information Technology,ขอนแก่น,2.08,3,5,934,0,Network Engineer,บริษัทใหญ่ไทย,ปริมณฑล,42300
+Cybersecurity,ธรรมศาสตร์,3.38,1,4,392,5,UX/UI Designer,SME,ต่างจังหวัด,37800
+Data Science,ขอนแก่น,2.7,0,4,583,0,UX/UI Designer,Startup,กรุงเทพ,39300
+Computer Engineering,เชียงใหม่,3.22,2,5,440,0,Software Developer,MNC (บริษัทข้ามชาติ),ปริมณฑล,45000
+Computer Engineering,มศว,3.92,3,3,707,8,IT Support,บริษัทใหญ่ไทย,ต่างจังหวัด,42100
+Computer Engineering,ขอนแก่น,2.87,2,4,740,7,Software Developer,Startup,ปริมณฑล,39100
+Software Engineering,KMUTT,2.46,1,3,418,5,DevOps Engineer,Startup,ต่างจังหวัด,37700
+Computer Science,KMUTT,3.05,2,1,619,8,Network Engineer,Startup,ปริมณฑล,42800
+Data Science,เชียงใหม่,3.81,3,5,309,4,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,53200
+Cybersecurity,มหิดล,3.2,1,0,849,0,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,50700
+Computer Engineering,เชียงใหม่,2.25,1,3,654,7,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,44900
+Computer Engineering,มหาวิทยาลัยอื่น,2.74,3,2,372,7,Network Engineer,Startup,กรุงเทพ,41500
+Cybersecurity,มหาวิทยาลัยอื่น,3.78,1,2,676,7,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,52900
+Data Science,เกษตรศาสตร์,2.03,0,3,789,1,Software Developer,SME,ปริมณฑล,44400
+Cybersecurity,มหิดล,3.54,1,4,354,5,DevOps Engineer,บริษัทใหญ่ไทย,ปริมณฑล,50500
+Data Science,มหิดล,2.77,0,2,580,9,Data Analyst,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,47000
+Cybersecurity,มศว,2.75,0,0,962,1,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,46500
+Computer Engineering,ขอนแก่น,3.99,3,5,474,5,Network Engineer,Startup,ต่างจังหวัด,42600
+Cybersecurity,KMUTT,2.61,2,2,892,5,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,45400
+Computer Engineering,เชียงใหม่,3.21,2,5,301,4,UX/UI Designer,SME,ปริมณฑล,42500
+Data Science,มหิดล,2.38,1,4,786,2,Data Analyst,บริษัทใหญ่ไทย,ต่างจังหวัด,40300
+Cybersecurity,มหิดล,2.98,3,0,373,4,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,46700
+Computer Science,เกษตรศาสตร์,3.2,0,4,614,0,Data Scientist,SME,ปริมณฑล,46800
+Computer Engineering,จุฬาลงกรณ์,2.7,2,1,883,3,DevOps Engineer,SME,ต่างจังหวัด,43200
+Data Science,เกษตรศาสตร์,3.37,0,0,680,4,IT Support,SME,กรุงเทพ,38700
+Information Technology,มศว,3.81,0,0,984,2,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,43900
+Computer Science,มหิดล,2.66,0,2,,2,Network Engineer,Startup,ต่างจังหวัด,29300
+Information Technology,เกษตรศาสตร์,2.93,1,3,903,2,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,51600
+Cybersecurity,มหาวิทยาลัยอื่น,3.64,0,5,854,0,DevOps Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,57200
+Software Engineering,จุฬาลงกรณ์,3.39,3,3,729,4,Network Engineer,Startup,กรุงเทพ,52200
+Data Science,จุฬาลงกรณ์,3.14,2,0,629,7,Network Engineer,Startup,ปริมณฑล,41600
+Computer Science,KMUTT,2.99,0,5,592,8,Software Developer,บริษัทใหญ่ไทย,ปริมณฑล,46800
+Software Engineering,เกษตรศาสตร์,2.26,0,1,498,,Software Developer,Startup,กรุงเทพ,42100
+Computer Science,มหิดล,2.27,2,5,476,6,UX/UI Designer,SME,กรุงเทพ,45100
+Data Science,ขอนแก่น,3.29,3,3,751,3,Data Analyst,SME,ปริมณฑล,50800
+Computer Science,มหิดล,2.03,3,2,688,5,UX/UI Designer,SME,ต่างจังหวัด,39000
+Cybersecurity,มหิดล,2.52,0,0,452,7,Data Scientist,Startup,กรุงเทพ,46900
+Cybersecurity,ธรรมศาสตร์,3.58,1,5,,7,Data Analyst,SME,ต่างจังหวัด,47900
+Computer Science,เกษตรศาสตร์,3.65,2,4,483,0,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,53600
+Cybersecurity,ขอนแก่น,3.68,2,0,672,2,Network Engineer,Startup,กรุงเทพ,44400
+Information Technology,มศว,2.96,1,3,326,5,Network Engineer,Startup,ปริมณฑล,34000
+Computer Science,KMUTT,2.38,1,4,346,0,UX/UI Designer,Startup,กรุงเทพ,35900
+Computer Engineering,มหิดล,3.84,2,0,645,8,Network Engineer,บริษัทใหญ่ไทย,ปริมณฑล,49900
+Computer Engineering,มศว,2.78,3,4,565,4,IT Support,Startup,กรุงเทพ,45300
+Data Science,KMUTT,3.14,2,2,616,9,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,48200
+Software Engineering,มหิดล,3.22,0,2,540,6,IT Support,บริษัทใหญ่ไทย,ปริมณฑล,37500
+Software Engineering,มหาวิทยาลัยอื่น,,3,2,894,5,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,44100
+Data Science,KMUTT,2.73,3,5,666,3,DevOps Engineer,Startup,ปริมณฑล,50200
+Data Science,จุฬาลงกรณ์,3.09,2,0,634,0,Data Scientist,SME,ปริมณฑล,51400
+Information Technology,ขอนแก่น,,1,,839,8,DevOps Engineer,SME,กรุงเทพ,50700
+Cybersecurity,มศว,2.42,2,0,,2,IT Support,Startup,กรุงเทพ,37000
+Computer Science,เกษตรศาสตร์,3.08,0,1,305,0,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,47600
+Software Engineering,ธรรมศาสตร์,2.72,0,3,304,2,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,47600
+Information Technology,ขอนแก่น,2.53,3,0,530,7,Network Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,47500
+Software Engineering,KMUTT,2.47,0,5,558,,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,52400
+Information Technology,KMUTT,2.91,0,4,828,0,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,43800
+Computer Engineering,มหิดล,4.0,3,4,844,0,DevOps Engineer,บริษัทใหญ่ไทย,ต่างจังหวัด,49800
+Computer Science,ธรรมศาสตร์,2.93,1,1,786,8,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,57700
+Cybersecurity,ธรรมศาสตร์,3.23,2,2,329,9,Data Analyst,Startup,ปริมณฑล,41600
+Software Engineering,มหาวิทยาลัยอื่น,2.26,1,5,680,7,Data Scientist,Startup,กรุงเทพ,49100
+Data Science,ขอนแก่น,2.27,1,2,313,8,Data Scientist,Startup,ปริมณฑล,43300
+Data Science,ธรรมศาสตร์,2.33,1,5,544,1,Data Analyst,SME,ปริมณฑล,40000
+Computer Engineering,มศว,2.29,1,2,549,8,Software Developer,Startup,กรุงเทพ,43700
+Information Technology,เกษตรศาสตร์,3.21,2,3,428,7,IT Support,SME,ปริมณฑล,36700
+Data Science,ขอนแก่น,3.08,3,1,829,3,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,48300
+Computer Engineering,KMUTT,3.63,1,2,450,5,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,59900
+Data Science,มศว,,3,5,,4,Software Developer,Startup,ต่างจังหวัด,40600
+Data Science,มหาวิทยาลัยอื่น,2.51,2,1,912,9,Software Developer,Startup,กรุงเทพ,49700
+Computer Engineering,มศว,3.01,0,2,520,4,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,42800
+Information Technology,จุฬาลงกรณ์,2.23,1,2,576,8,Data Analyst,Startup,กรุงเทพ,43300
+Data Science,มหิดล,2.6,1,5,663,4,Data Analyst,SME,กรุงเทพ,47000
+Software Engineering,เกษตรศาสตร์,2.65,2,4,481,3,Software Developer,Startup,ปริมณฑล,40900
+Computer Science,ธรรมศาสตร์,,2,,364,2,IT Support,Startup,กรุงเทพ,35500
+Cybersecurity,มหาวิทยาลัยอื่น,,3,2,560,8,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,56600
+Cybersecurity,เชียงใหม่,3.4,3,2,567,5,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,48900
+Information Technology,มหิดล,3.44,3,0,912,5,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,55200
+Information Technology,ธรรมศาสตร์,,1,,755,2,DevOps Engineer,SME,กรุงเทพ,41300
+Information Technology,KMUTT,2.21,1,3,409,,DevOps Engineer,Startup,ต่างจังหวัด,28200
+Cybersecurity,เชียงใหม่,2.33,1,3,812,8,IT Support,บริษัทใหญ่ไทย,ต่างจังหวัด,34900
+Information Technology,ขอนแก่น,3.06,3,1,801,7,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,49000
+Cybersecurity,KMUTT,2.14,3,2,908,5,Data Analyst,Startup,ปริมณฑล,47500
+Cybersecurity,ธรรมศาสตร์,3.17,3,3,344,7,Data Analyst,SME,กรุงเทพ,49500
+Computer Science,ธรรมศาสตร์,3.06,2,4,559,4,Network Engineer,Startup,กรุงเทพ,49300
+Computer Engineering,เชียงใหม่,3.75,3,3,736,0,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,60900
+Cybersecurity,มศว,2.01,3,3,915,5,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,55800
+Software Engineering,มศว,3.51,2,,384,9,Software Developer,MNC (บริษัทข้ามชาติ),ปริมณฑล,54600
+Data Science,มศว,3.19,0,2,974,9,Data Scientist,SME,กรุงเทพ,49600
+Computer Engineering,มศว,2.15,2,3,810,,Network Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,48500
+Data Science,ธรรมศาสตร์,3.96,2,3,462,0,IT Support,Startup,กรุงเทพ,39600
+Cybersecurity,ขอนแก่น,2.08,0,0,940,3,Data Scientist,Startup,ต่างจังหวัด,34300
+Software Engineering,มศว,2.28,1,0,424,2,UX/UI Designer,Startup,กรุงเทพ,31500
+Information Technology,จุฬาลงกรณ์,3.14,0,0,788,,IT Support,SME,กรุงเทพ,40300
+Computer Engineering,เชียงใหม่,2.33,0,1,593,7,Data Scientist,MNC (บริษัทข้ามชาติ),ปริมณฑล,49900
+Information Technology,เชียงใหม่,2.74,3,3,376,4,Network Engineer,SME,ต่างจังหวัด,33400
+Data Science,ขอนแก่น,2.88,3,4,850,2,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,50700
+Computer Engineering,KMUTT,2.88,0,5,903,9,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,51100
+Cybersecurity,เกษตรศาสตร์,3.97,3,,404,1,Data Scientist,Startup,ต่างจังหวัด,48300
+Computer Science,ธรรมศาสตร์,2.03,0,1,763,5,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,42300
+Computer Engineering,ขอนแก่น,3.28,2,5,966,1,DevOps Engineer,SME,กรุงเทพ,53300
+Computer Science,ธรรมศาสตร์,3.21,1,3,723,8,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,60200
+Computer Engineering,จุฬาลงกรณ์,3.56,2,4,306,6,Network Engineer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,46600
+Software Engineering,มหิดล,2.25,2,0,478,4,Data Analyst,บริษัทใหญ่ไทย,ต่างจังหวัด,39700
+Cybersecurity,ขอนแก่น,3.31,0,4,568,6,UX/UI Designer,SME,กรุงเทพ,41800
+Computer Engineering,เชียงใหม่,2.19,0,2,898,3,Data Scientist,Startup,กรุงเทพ,47100
+Software Engineering,KMUTT,3.43,2,1,453,5,UX/UI Designer,Startup,กรุงเทพ,48600
+Computer Engineering,มหาวิทยาลัยอื่น,2.61,0,3,528,4,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,40500
+Data Science,มศว,2.52,2,4,495,1,Network Engineer,SME,ต่างจังหวัด,28900
+Computer Engineering,เกษตรศาสตร์,2.4,0,0,519,2,Software Developer,SME,ปริมณฑล,37200
+Computer Science,เกษตรศาสตร์,2.63,2,2,600,6,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,58400
+Computer Science,มหิดล,2.22,2,1,965,3,Data Analyst,Startup,กรุงเทพ,43400
+Software Engineering,เกษตรศาสตร์,2.14,0,0,583,0,DevOps Engineer,SME,ปริมณฑล,38000
+Data Science,มศว,2.85,2,2,705,1,UX/UI Designer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,42200
+Computer Engineering,มศว,3.76,1,5,538,3,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,50700
+Cybersecurity,มหิดล,2.76,1,4,,5,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,48000
+Computer Science,มหิดล,2.28,1,2,350,4,Data Analyst,Startup,กรุงเทพ,38800
+Cybersecurity,จุฬาลงกรณ์,3.56,0,3,844,5,UX/UI Designer,บริษัทใหญ่ไทย,ต่างจังหวัด,43200
+Computer Science,จุฬาลงกรณ์,3.84,0,1,624,1,Network Engineer,Startup,กรุงเทพ,43000
+Computer Engineering,มหิดล,3.73,1,5,485,7,DevOps Engineer,Startup,ปริมณฑล,46400
+Computer Science,มศว,3.24,2,4,331,3,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,49300
+Data Science,ขอนแก่น,2.34,0,3,849,3,Data Analyst,SME,กรุงเทพ,41100
+Cybersecurity,เกษตรศาสตร์,2.37,3,2,882,4,Network Engineer,SME,กรุงเทพ,45700
+Cybersecurity,KMUTT,2.79,2,1,620,0,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,49100
+Information Technology,KMUTT,2.54,2,5,364,3,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,43000
+Software Engineering,จุฬาลงกรณ์,2.73,0,5,716,1,Network Engineer,SME,ปริมณฑล,42200
+Computer Science,มหิดล,2.48,2,3,414,4,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,48500
+Information Technology,KMUTT,3.31,0,1,664,6,Network Engineer,SME,ปริมณฑล,39800
+Cybersecurity,เกษตรศาสตร์,2.34,1,0,978,3,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,45500
+Software Engineering,มศว,3.19,1,2,410,7,DevOps Engineer,Startup,ต่างจังหวัด,39300
+Data Science,ขอนแก่น,2.59,2,1,456,4,UX/UI Designer,Startup,ปริมณฑล,37600
+Cybersecurity,ธรรมศาสตร์,3.01,2,2,554,9,IT Support,บริษัทใหญ่ไทย,ต่างจังหวัด,38400
+Data Science,จุฬาลงกรณ์,3.32,2,1,833,6,UX/UI Designer,SME,ปริมณฑล,49000
+Computer Science,เชียงใหม่,3.44,2,4,,2,Network Engineer,SME,ต่างจังหวัด,39300
+Data Science,มศว,2.69,2,3,858,7,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,49800
+Computer Science,จุฬาลงกรณ์,3.53,0,3,896,6,Data Scientist,MNC (บริษัทข้ามชาติ),ปริมณฑล,51500
+Software Engineering,มหาวิทยาลัยอื่น,3.34,1,4,872,5,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,49600
+Software Engineering,จุฬาลงกรณ์,2.81,3,4,875,5,DevOps Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,63700
+Information Technology,มศว,2.4,2,1,404,2,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,43400
+Software Engineering,เชียงใหม่,3.23,3,4,336,8,Data Scientist,Startup,ปริมณฑล,48700
+Computer Engineering,KMUTT,2.21,3,3,472,4,DevOps Engineer,SME,กรุงเทพ,53800
+Cybersecurity,เชียงใหม่,3.54,2,5,651,4,Data Analyst,SME,กรุงเทพ,50100
+Software Engineering,เชียงใหม่,2.24,0,5,412,1,Data Analyst,SME,ต่างจังหวัด,33400
+Data Science,เกษตรศาสตร์,3.26,3,3,523,0,Software Developer,MNC (บริษัทข้ามชาติ),กรุงเทพ,57800
+Computer Science,มหิดล,2.7,3,1,,8,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,45300
+Software Engineering,ขอนแก่น,2.92,3,1,507,6,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,46600
+Computer Engineering,มศว,2.79,0,0,687,8,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,44900
+Software Engineering,มหิดล,3.8,0,4,439,7,DevOps Engineer,Startup,กรุงเทพ,51600
+Computer Science,มหาวิทยาลัยอื่น,3.77,3,1,502,2,DevOps Engineer,Startup,ปริมณฑล,45900
+Computer Engineering,มศว,3.91,3,1,388,3,Data Analyst,Startup,กรุงเทพ,43800
+Cybersecurity,มหิดล,2.3,2,4,455,7,IT Support,SME,ปริมณฑล,42500
+Data Science,ธรรมศาสตร์,3.86,3,4,478,7,Data Analyst,บริษัทใหญ่ไทย,ปริมณฑล,54000
+Data Science,ขอนแก่น,2.63,1,1,613,1,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,56600
+Software Engineering,ธรรมศาสตร์,2.57,3,3,663,8,UX/UI Designer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,46900
+Computer Engineering,เกษตรศาสตร์,2.16,0,5,534,3,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,45900
+Software Engineering,KMUTT,2.68,2,2,331,7,Network Engineer,SME,ต่างจังหวัด,42100
+Software Engineering,มหาวิทยาลัยอื่น,3.05,1,2,457,6,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,48600
+Information Technology,เชียงใหม่,3.11,3,1,785,6,Data Analyst,บริษัทใหญ่ไทย,ต่างจังหวัด,43000
+Software Engineering,เชียงใหม่,2.53,0,0,601,2,Network Engineer,SME,ปริมณฑล,35200
+Data Science,เกษตรศาสตร์,2.63,1,4,715,5,UX/UI Designer,บริษัทใหญ่ไทย,ต่างจังหวัด,42600
+Data Science,จุฬาลงกรณ์,3.1,3,0,917,0,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,51600
+Software Engineering,เชียงใหม่,2.29,3,3,965,4,UX/UI Designer,SME,กรุงเทพ,48700
+Computer Science,มศว,3.72,2,4,752,4,UX/UI Designer,Startup,กรุงเทพ,43800
+Cybersecurity,KMUTT,3.99,2,4,689,1,UX/UI Designer,Startup,ต่างจังหวัด,42100
+Data Science,มหาวิทยาลัยอื่น,2.27,3,2,555,5,DevOps Engineer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,46800
+Cybersecurity,KMUTT,2.88,2,4,482,9,Software Developer,Startup,กรุงเทพ,50100
+Software Engineering,มหิดล,2.28,3,3,901,2,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,50300
+Software Engineering,จุฬาลงกรณ์,2.06,0,2,746,8,DevOps Engineer,SME,กรุงเทพ,47100
+Computer Engineering,มศว,3.35,0,0,755,2,Data Scientist,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,48000
+Software Engineering,มศว,3.35,1,4,818,3,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,42000
+Computer Engineering,จุฬาลงกรณ์,3.33,2,3,475,6,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,56800
+Computer Science,จุฬาลงกรณ์,2.77,2,4,891,,Data Analyst,Startup,กรุงเทพ,52800
+Software Engineering,จุฬาลงกรณ์,2.07,0,1,560,8,Network Engineer,Startup,ปริมณฑล,41000
+Information Technology,เกษตรศาสตร์,2.08,2,3,674,1,IT Support,Startup,ต่างจังหวัด,27500
+Data Science,จุฬาลงกรณ์,3.52,3,5,342,0,Software Developer,Startup,กรุงเทพ,54500
+Software Engineering,เกษตรศาสตร์,3.34,2,2,341,1,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,48500
+Software Engineering,มหิดล,3.34,0,3,343,4,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,53400
+Cybersecurity,มศว,3.47,0,5,,6,Software Developer,SME,ต่างจังหวัด,42000
+Cybersecurity,ขอนแก่น,2.24,3,1,451,8,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,44900
+Data Science,เกษตรศาสตร์,2.62,3,,524,8,DevOps Engineer,SME,กรุงเทพ,52000
+Software Engineering,มหาวิทยาลัยอื่น,3.89,3,4,425,3,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,46200
+Information Technology,KMUTT,3.04,2,4,542,,Data Scientist,MNC (บริษัทข้ามชาติ),ปริมณฑล,54800
+Data Science,จุฬาลงกรณ์,2.93,3,0,446,1,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,52400
+Software Engineering,มศว,2.91,0,2,455,6,Network Engineer,Startup,ต่างจังหวัด,32900
+Computer Engineering,เชียงใหม่,2.16,0,2,568,1,UX/UI Designer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,30200
+Data Science,เกษตรศาสตร์,3.84,3,5,802,4,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,64000
+Computer Engineering,มหาวิทยาลัยอื่น,3.44,2,1,371,6,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,48000
+Data Science,จุฬาลงกรณ์,2.64,1,2,677,6,DevOps Engineer,Startup,ปริมณฑล,50900
+Computer Science,ธรรมศาสตร์,2.87,3,5,399,7,Software Developer,SME,กรุงเทพ,51200
+Computer Engineering,มหาวิทยาลัยอื่น,2.23,2,4,482,1,UX/UI Designer,SME,ต่างจังหวัด,24100
+Information Technology,มศว,2.01,2,1,857,4,Data Analyst,SME,ปริมณฑล,34500
+Information Technology,จุฬาลงกรณ์,2.97,0,3,915,,IT Support,Startup,ต่างจังหวัด,38700
+Computer Engineering,มหิดล,2.96,2,0,422,,Network Engineer,SME,กรุงเทพ,42200
+Information Technology,ขอนแก่น,3.33,1,5,,4,Software Developer,บริษัทใหญ่ไทย,ต่างจังหวัด,35500
+Information Technology,เชียงใหม่,2.28,1,4,752,7,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,36500
+Computer Science,จุฬาลงกรณ์,2.32,2,5,619,2,Software Developer,SME,กรุงเทพ,47600
+Data Science,ขอนแก่น,2.39,2,3,865,2,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,46600
+Software Engineering,เชียงใหม่,3.25,1,2,,3,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,47600
+Computer Science,เชียงใหม่,2.63,0,5,653,0,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,48100
+Computer Engineering,ขอนแก่น,3.46,0,5,689,7,IT Support,Startup,กรุงเทพ,41500
+Information Technology,มศว,2.61,1,1,528,0,Data Analyst,Startup,กรุงเทพ,35800
+Computer Science,มหิดล,2.51,0,2,544,1,Software Developer,MNC (บริษัทข้ามชาติ),กรุงเทพ,50600
+Software Engineering,มหาวิทยาลัยอื่น,3.61,1,2,957,2,UX/UI Designer,บริษัทใหญ่ไทย,ต่างจังหวัด,37400
+Information Technology,เชียงใหม่,3.65,2,1,534,7,Network Engineer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,42700
+Software Engineering,มหิดล,3.25,2,2,561,1,DevOps Engineer,SME,กรุงเทพ,49900
+Information Technology,มศว,3.25,1,2,946,9,DevOps Engineer,SME,กรุงเทพ,47000
+Software Engineering,มศว,3.77,1,4,643,4,Data Analyst,Startup,กรุงเทพ,43700
+Software Engineering,จุฬาลงกรณ์,,0,5,502,1,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,44900
+Data Science,มหิดล,2.07,3,4,857,4,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,51400
+Computer Science,ธรรมศาสตร์,3.98,3,0,443,,Network Engineer,บริษัทใหญ่ไทย,ปริมณฑล,43700
+Software Engineering,เชียงใหม่,2.68,1,4,539,5,Software Developer,บริษัทใหญ่ไทย,ต่างจังหวัด,45800
+Data Science,เชียงใหม่,2.28,3,0,343,3,IT Support,SME,ต่างจังหวัด,31300
+Cybersecurity,มหิดล,2.77,2,2,962,8,Network Engineer,บริษัทใหญ่ไทย,ปริมณฑล,52500
+Software Engineering,ขอนแก่น,2.97,2,3,798,3,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,58200
+Information Technology,เกษตรศาสตร์,3.23,3,1,689,8,IT Support,Startup,ต่างจังหวัด,30900
+Software Engineering,เกษตรศาสตร์,2.23,2,4,804,8,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,44200
+Software Engineering,ธรรมศาสตร์,2.83,1,1,729,8,Software Developer,Startup,กรุงเทพ,49200
+Computer Science,เชียงใหม่,3.69,2,3,848,9,IT Support,บริษัทใหญ่ไทย,ต่างจังหวัด,41000
+Information Technology,เชียงใหม่,2.84,3,1,426,3,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,54300
+Software Engineering,เกษตรศาสตร์,2.82,3,0,758,9,Data Analyst,MNC (บริษัทข้ามชาติ),ปริมณฑล,53800
+Cybersecurity,เกษตรศาสตร์,3.07,1,5,920,3,DevOps Engineer,บริษัทใหญ่ไทย,ปริมณฑล,55600
+Software Engineering,มศว,3.22,0,5,966,0,Network Engineer,บริษัทใหญ่ไทย,ปริมณฑล,45300
+Information Technology,ธรรมศาสตร์,2.45,0,3,934,9,Network Engineer,SME,ปริมณฑล,37300
+Information Technology,จุฬาลงกรณ์,3.25,3,5,828,4,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,57500
+Computer Engineering,เชียงใหม่,3.63,1,5,802,4,IT Support,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,41000
+Software Engineering,ขอนแก่น,3.31,1,3,576,6,Data Analyst,SME,ปริมณฑล,46600
+Information Technology,เชียงใหม่,3.07,3,3,,5,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,50700
+Computer Engineering,เชียงใหม่,2.9,0,0,505,,IT Support,บริษัทใหญ่ไทย,ปริมณฑล,35700
+Software Engineering,มหาวิทยาลัยอื่น,3.08,1,3,350,8,Software Developer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,48100
+Cybersecurity,มหิดล,3.74,1,4,586,6,UX/UI Designer,บริษัทใหญ่ไทย,ต่างจังหวัด,41600
+Information Technology,ธรรมศาสตร์,2.22,1,1,362,5,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,45500
+Cybersecurity,ขอนแก่น,3.06,1,3,343,2,Data Scientist,SME,ต่างจังหวัด,38600
+Computer Science,ธรรมศาสตร์,2.13,2,2,398,2,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,41200
+Software Engineering,เกษตรศาสตร์,2.82,0,3,667,2,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,44500
+Cybersecurity,เกษตรศาสตร์,2.52,3,1,446,4,UX/UI Designer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,41500
+Information Technology,มหาวิทยาลัยอื่น,3.08,3,5,532,3,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,53200
+Data Science,มหาวิทยาลัยอื่น,2.65,2,5,441,5,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,57800
+Computer Engineering,เกษตรศาสตร์,3.71,1,1,617,8,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,55300
+Computer Engineering,มศว,2.94,3,2,360,,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,49300
+Software Engineering,ขอนแก่น,3.82,2,3,738,3,Network Engineer,SME,ต่างจังหวัด,39600
+Computer Engineering,ธรรมศาสตร์,3.46,1,5,933,1,Data Scientist,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,53200
+Data Science,ธรรมศาสตร์,,2,2,854,5,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,65300
+Information Technology,KMUTT,2.34,2,1,970,1,Software Developer,SME,ต่างจังหวัด,33300
+Computer Engineering,ขอนแก่น,2.6,2,2,679,5,UX/UI Designer,SME,กรุงเทพ,43300
+Software Engineering,มศว,3.29,3,5,535,3,UX/UI Designer,Startup,กรุงเทพ,44500
+Data Science,เชียงใหม่,2.6,3,5,358,4,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,54400
+Cybersecurity,มหาวิทยาลัยอื่น,2.61,0,,498,6,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,47200
+Data Science,มหิดล,2.95,3,3,968,4,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,57000
+Data Science,มหิดล,3.97,3,1,,6,UX/UI Designer,SME,ต่างจังหวัด,41900
+Cybersecurity,ธรรมศาสตร์,2.27,2,2,810,1,Data Scientist,SME,ปริมณฑล,49400
+Information Technology,KMUTT,2.83,3,0,969,1,Data Analyst,Startup,กรุงเทพ,44600
+Data Science,มหิดล,2.65,2,2,811,4,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,58100
+Cybersecurity,ธรรมศาสตร์,3.6,0,5,371,0,Data Analyst,Startup,กรุงเทพ,45600
+Information Technology,ขอนแก่น,3.15,2,3,745,8,Network Engineer,Startup,กรุงเทพ,44200
+Information Technology,KMUTT,,0,4,,6,Network Engineer,บริษัทใหญ่ไทย,ต่างจังหวัด,37300
+Cybersecurity,มหาวิทยาลัยอื่น,2.79,3,5,454,6,Data Scientist,MNC (บริษัทข้ามชาติ),ปริมณฑล,56900
+Computer Engineering,KMUTT,3.8,0,3,824,4,Data Scientist,Startup,กรุงเทพ,52400
+Software Engineering,KMUTT,2.49,1,1,512,5,DevOps Engineer,SME,กรุงเทพ,45900
+Software Engineering,KMUTT,2.42,3,1,819,3,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,48000
+Cybersecurity,มศว,3.69,0,2,501,8,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,47200
+Information Technology,ขอนแก่น,2.3,1,,803,0,UX/UI Designer,Startup,ปริมณฑล,36300
+Cybersecurity,เชียงใหม่,3.37,3,1,633,0,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,46500
+Cybersecurity,จุฬาลงกรณ์,2.2,3,1,786,4,Network Engineer,SME,ปริมณฑล,46100
+Software Engineering,เกษตรศาสตร์,3.4,1,5,308,9,Network Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,55600
+Information Technology,จุฬาลงกรณ์,3.83,1,4,806,0,Data Scientist,Startup,กรุงเทพ,49300
+Information Technology,เกษตรศาสตร์,3.67,0,2,615,8,DevOps Engineer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,46700
+Computer Science,มศว,3.17,3,3,444,4,Network Engineer,SME,กรุงเทพ,48800
+Cybersecurity,ขอนแก่น,2.92,3,4,464,1,DevOps Engineer,บริษัทใหญ่ไทย,ปริมณฑล,45000
+Computer Engineering,ขอนแก่น,3.39,1,,624,,DevOps Engineer,Startup,ปริมณฑล,43300
+Computer Engineering,มหาวิทยาลัยอื่น,,2,,,3,Data Analyst,Startup,กรุงเทพ,43700
+Cybersecurity,มศว,2.55,0,5,568,8,Network Engineer,SME,กรุงเทพ,46300
+Data Science,ขอนแก่น,3.77,1,5,883,4,Data Analyst,Startup,กรุงเทพ,46400
+Cybersecurity,จุฬาลงกรณ์,2.47,0,1,876,8,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,51500
+Computer Science,จุฬาลงกรณ์,2.73,3,2,456,9,Data Analyst,SME,กรุงเทพ,47200
+Software Engineering,ขอนแก่น,3.51,2,3,592,7,Software Developer,Startup,ปริมณฑล,45700
+Cybersecurity,เกษตรศาสตร์,3.09,1,0,959,1,IT Support,บริษัทใหญ่ไทย,ปริมณฑล,38200
+Computer Engineering,มศว,2.59,1,3,550,3,Software Developer,SME,ปริมณฑล,42200
+Data Science,ขอนแก่น,3.58,2,2,804,4,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,57700
+Data Science,มศว,,3,3,445,4,Data Scientist,SME,ต่างจังหวัด,46300
+Software Engineering,มหิดล,2.57,1,3,903,9,IT Support,บริษัทใหญ่ไทย,ปริมณฑล,46000
+Data Science,มหาวิทยาลัยอื่น,3.52,2,5,315,9,Software Developer,MNC (บริษัทข้ามชาติ),ปริมณฑล,58500
+Data Science,เกษตรศาสตร์,3.48,1,3,626,6,Network Engineer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,47600
+Software Engineering,ขอนแก่น,2.03,1,1,859,3,IT Support,Startup,กรุงเทพ,37700
+Computer Science,จุฬาลงกรณ์,2.46,3,5,885,9,IT Support,บริษัทใหญ่ไทย,ปริมณฑล,49000
+Software Engineering,ขอนแก่น,,3,0,797,5,Data Analyst,บริษัทใหญ่ไทย,ปริมณฑล,45400
+Cybersecurity,จุฬาลงกรณ์,2.6,1,4,983,0,Data Scientist,Startup,ต่างจังหวัด,43700
+Cybersecurity,มหิดล,2.39,3,5,452,,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,51800
+Data Science,KMUTT,3.62,3,3,695,9,Software Developer,SME,กรุงเทพ,55100
+Computer Engineering,ขอนแก่น,,0,2,742,0,IT Support,SME,ปริมณฑล,34400
+Cybersecurity,จุฬาลงกรณ์,2.35,0,4,826,7,Network Engineer,Startup,กรุงเทพ,45000
+Information Technology,ขอนแก่น,2.15,1,2,878,5,Data Scientist,SME,ต่างจังหวัด,34600
+Information Technology,ธรรมศาสตร์,3.37,3,0,747,5,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,49000
+Cybersecurity,ขอนแก่น,3.26,3,3,678,3,IT Support,Startup,กรุงเทพ,41200
+Information Technology,มหาวิทยาลัยอื่น,2.66,1,1,324,1,Software Developer,SME,กรุงเทพ,35500
+Computer Engineering,KMUTT,3.92,1,2,929,3,Software Developer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,47300
+Computer Engineering,ธรรมศาสตร์,2.29,3,3,986,4,IT Support,SME,กรุงเทพ,43500
+Software Engineering,ขอนแก่น,,2,4,816,2,DevOps Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,53600
+Data Science,จุฬาลงกรณ์,2.31,2,0,928,3,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,56800
+Computer Engineering,มหาวิทยาลัยอื่น,2.1,2,5,323,6,IT Support,Startup,ต่างจังหวัด,29900
+Information Technology,มหิดล,2.99,0,3,527,7,IT Support,Startup,ต่างจังหวัด,27500
+Information Technology,KMUTT,2.13,0,5,692,0,IT Support,Startup,ปริมณฑล,28700
+Data Science,มศว,3.67,0,5,539,,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,49200
+Computer Engineering,มหิดล,2.87,3,2,,4,Data Scientist,MNC (บริษัทข้ามชาติ),ปริมณฑล,59100
+Data Science,ขอนแก่น,3.77,1,0,494,0,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,56900
+Computer Science,ธรรมศาสตร์,2.65,0,0,749,2,Data Scientist,SME,กรุงเทพ,41600
+Data Science,มหาวิทยาลัยอื่น,2.56,2,3,716,3,DevOps Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,56800
+Computer Science,KMUTT,3.54,1,1,909,6,Data Analyst,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,47700
+Data Science,ขอนแก่น,,0,0,404,1,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,42700
+Computer Engineering,มหาวิทยาลัยอื่น,2.96,1,4,,3,DevOps Engineer,SME,ปริมณฑล,51600
+Computer Engineering,ขอนแก่น,,1,0,899,7,IT Support,SME,ต่างจังหวัด,31800
+Software Engineering,จุฬาลงกรณ์,3.92,0,4,546,0,Software Developer,SME,กรุงเทพ,49800
+Computer Engineering,มหาวิทยาลัยอื่น,3.39,1,0,362,1,Data Scientist,Startup,กรุงเทพ,43600
+Data Science,มศว,3.52,1,2,800,3,IT Support,SME,ต่างจังหวัด,38100
+Software Engineering,เกษตรศาสตร์,2.33,3,2,873,7,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,52900
+Computer Engineering,จุฬาลงกรณ์,2.19,3,1,364,7,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,55500
+Computer Science,ธรรมศาสตร์,3.16,1,5,326,9,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,59900
+Cybersecurity,มหาวิทยาลัยอื่น,2.83,1,4,760,4,Data Scientist,SME,กรุงเทพ,48700
+Computer Engineering,จุฬาลงกรณ์,3.54,0,0,573,6,Data Analyst,SME,กรุงเทพ,46400
+Cybersecurity,จุฬาลงกรณ์,2.74,0,2,808,,UX/UI Designer,Startup,กรุงเทพ,40400
+Software Engineering,มศว,3.51,3,0,771,3,UX/UI Designer,SME,กรุงเทพ,44300
+Information Technology,มหิดล,2.38,1,2,663,4,DevOps Engineer,SME,กรุงเทพ,42200
+Computer Engineering,KMUTT,3.8,2,2,635,9,UX/UI Designer,Startup,ปริมณฑล,45700
+Information Technology,จุฬาลงกรณ์,2.65,3,2,674,0,Software Developer,Startup,กรุงเทพ,46700
+Software Engineering,ขอนแก่น,3.75,3,0,831,5,Data Analyst,Startup,ต่างจังหวัด,38500
+Computer Engineering,KMUTT,3.5,0,2,887,0,Software Developer,SME,ต่างจังหวัด,34500
+Computer Engineering,มหิดล,2.05,2,0,424,5,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,44100
+Information Technology,จุฬาลงกรณ์,3.55,2,5,494,9,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,60200
+Cybersecurity,จุฬาลงกรณ์,3.85,3,4,328,6,Data Scientist,Startup,ปริมณฑล,50400
+Computer Engineering,ธรรมศาสตร์,3.87,0,5,718,4,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,53200
+Cybersecurity,KMUTT,3.23,0,1,520,6,Data Analyst,SME,กรุงเทพ,34100
+Computer Engineering,เชียงใหม่,2.62,0,1,550,1,Data Scientist,SME,ปริมณฑล,41100
+Cybersecurity,มหิดล,3.31,2,4,634,9,Data Scientist,Startup,ปริมณฑล,50900
+Computer Science,KMUTT,3.37,2,1,589,3,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,50100
+Cybersecurity,ธรรมศาสตร์,2.87,2,0,692,1,Network Engineer,บริษัทใหญ่ไทย,ปริมณฑล,43300
+Computer Engineering,มศว,2.88,1,5,566,8,IT Support,Startup,กรุงเทพ,36300
+Computer Science,มศว,2.01,2,5,971,3,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,46700
+Computer Science,เชียงใหม่,2.41,2,4,971,3,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,51100
+Computer Engineering,มศว,3.64,2,1,637,6,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,56400
+Computer Science,ธรรมศาสตร์,3.96,2,3,954,8,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,64400
+Computer Engineering,มศว,2.67,1,2,551,9,Data Analyst,Startup,ปริมณฑล,41800
+Computer Engineering,เกษตรศาสตร์,2.55,0,,392,9,Network Engineer,Startup,กรุงเทพ,36200
+Cybersecurity,จุฬาลงกรณ์,3.81,0,2,710,7,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,50500
+Data Science,เชียงใหม่,3.37,1,0,928,6,Software Developer,MNC (บริษัทข้ามชาติ),ปริมณฑล,50700
+Computer Engineering,จุฬาลงกรณ์,3.95,3,3,571,9,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,59800
+Cybersecurity,KMUTT,3.32,2,0,591,2,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,42500
+Computer Engineering,มหิดล,2.33,1,2,906,0,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,43800
+Cybersecurity,เกษตรศาสตร์,3.65,0,1,627,0,UX/UI Designer,SME,กรุงเทพ,42500
+Information Technology,ธรรมศาสตร์,2.4,0,3,794,2,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,36900
+Data Science,มศว,2.06,0,0,363,8,Data Analyst,SME,ปริมณฑล,32700
+Information Technology,ขอนแก่น,2.08,3,2,599,2,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,38800
+Cybersecurity,เชียงใหม่,2.17,3,0,463,9,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,50600
+Software Engineering,KMUTT,3.68,2,5,889,6,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,55200
+Information Technology,เกษตรศาสตร์,2.28,0,1,339,,Software Developer,บริษัทใหญ่ไทย,ปริมณฑล,37100
+Information Technology,เกษตรศาสตร์,3.14,2,4,612,1,DevOps Engineer,SME,ปริมณฑล,42400
+Software Engineering,เชียงใหม่,,0,4,759,8,Data Scientist,SME,กรุงเทพ,51100
+Computer Science,ขอนแก่น,2.72,2,0,574,6,Data Analyst,SME,ต่างจังหวัด,37000
+Software Engineering,จุฬาลงกรณ์,3.92,2,4,856,1,DevOps Engineer,Startup,กรุงเทพ,51400
+Computer Engineering,ธรรมศาสตร์,3.8,1,0,509,9,DevOps Engineer,Startup,ปริมณฑล,43700
+Data Science,ขอนแก่น,3.63,1,2,965,7,Software Developer,Startup,ต่างจังหวัด,44100
+Information Technology,เกษตรศาสตร์,2.65,2,4,931,4,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,56200
+Data Science,เชียงใหม่,3.55,0,1,952,8,DevOps Engineer,บริษัทใหญ่ไทย,ปริมณฑล,53900
+Computer Science,ขอนแก่น,2.13,0,2,725,0,Network Engineer,SME,กรุงเทพ,32300
+Computer Science,มศว,3.69,2,5,828,2,Data Analyst,MNC (บริษัทข้ามชาติ),ปริมณฑล,58000
+Software Engineering,KMUTT,3.84,0,3,890,4,DevOps Engineer,Startup,ต่างจังหวัด,42900
+Software Engineering,มศว,3.89,1,0,445,7,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,48600
+Computer Engineering,เชียงใหม่,,3,5,314,3,Software Developer,บริษัทใหญ่ไทย,ปริมณฑล,52300
+Computer Engineering,มศว,3.26,2,2,771,7,Data Scientist,SME,ปริมณฑล,50100
+Computer Engineering,เกษตรศาสตร์,2.37,3,5,441,4,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,44800
+Computer Engineering,ธรรมศาสตร์,2.67,0,5,339,6,Data Analyst,Startup,ปริมณฑล,36400
+Information Technology,เกษตรศาสตร์,2.28,1,3,855,8,Data Analyst,Startup,กรุงเทพ,42000
+Software Engineering,จุฬาลงกรณ์,2.15,2,5,755,2,Software Developer,Startup,ปริมณฑล,41000
+Computer Engineering,มหิดล,3.71,2,2,561,3,Software Developer,MNC (บริษัทข้ามชาติ),ปริมณฑล,54300
+Data Science,เชียงใหม่,3.26,3,3,948,2,DevOps Engineer,Startup,กรุงเทพ,52900
+Software Engineering,มศว,2.42,0,0,429,6,Network Engineer,SME,ปริมณฑล,34600
+Computer Science,มหิดล,2.7,3,4,721,5,Data Scientist,SME,ปริมณฑล,53300
+Computer Engineering,ธรรมศาสตร์,2.08,0,0,741,1,Software Developer,Startup,ต่างจังหวัด,32700
+Information Technology,เชียงใหม่,3.37,0,3,586,7,DevOps Engineer,Startup,ต่างจังหวัด,40700
+Cybersecurity,มหิดล,3.3,0,5,936,9,Data Analyst,SME,กรุงเทพ,55800
+Software Engineering,ขอนแก่น,3.8,3,1,429,7,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,57700
+Computer Engineering,มศว,2.84,2,1,901,0,Data Scientist,SME,กรุงเทพ,43000
+Computer Engineering,มศว,2.83,2,1,301,1,DevOps Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,48700
+Software Engineering,KMUTT,2.97,0,4,695,2,Data Scientist,SME,ปริมณฑล,43000
+Data Science,เชียงใหม่,3.34,0,1,979,0,Network Engineer,Startup,ปริมณฑล,40200
+Computer Science,มหิดล,2.23,0,1,705,6,DevOps Engineer,บริษัทใหญ่ไทย,ต่างจังหวัด,41900
+Data Science,ธรรมศาสตร์,3.93,1,3,370,5,DevOps Engineer,Startup,กรุงเทพ,52200
+Information Technology,มหาวิทยาลัยอื่น,2.73,1,3,406,6,Network Engineer,Startup,ปริมณฑล,33800
+Computer Engineering,ธรรมศาสตร์,3.67,0,5,821,,Data Analyst,Startup,กรุงเทพ,50800
+Computer Engineering,เกษตรศาสตร์,,1,2,784,6,Data Analyst,SME,ต่างจังหวัด,39400
+Data Science,จุฬาลงกรณ์,3.34,2,2,352,0,IT Support,SME,กรุงเทพ,42000
+Software Engineering,ขอนแก่น,2.59,1,1,348,1,Software Developer,MNC (บริษัทข้ามชาติ),กรุงเทพ,45600
+Cybersecurity,เชียงใหม่,2.94,3,3,683,5,Data Scientist,Startup,กรุงเทพ,49400
+Cybersecurity,มหาวิทยาลัยอื่น,3.04,1,,578,9,Network Engineer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,45900
+Data Science,ธรรมศาสตร์,,3,5,442,1,DevOps Engineer,Startup,กรุงเทพ,58000
+Computer Engineering,จุฬาลงกรณ์,3.18,0,2,420,3,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,48900
+Cybersecurity,เชียงใหม่,3.62,0,4,929,1,DevOps Engineer,Startup,ปริมณฑล,43100
+Data Science,เชียงใหม่,2.83,0,4,540,5,Data Scientist,Startup,ปริมณฑล,45900
+Data Science,ขอนแก่น,3.2,3,4,670,3,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,53100
+Computer Engineering,เชียงใหม่,3.46,3,4,682,3,DevOps Engineer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,55100
+Software Engineering,มหาวิทยาลัยอื่น,3.49,3,2,719,0,Software Developer,SME,กรุงเทพ,50200
+Information Technology,มหาวิทยาลัยอื่น,3.93,3,2,876,1,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,48400
+Computer Engineering,เกษตรศาสตร์,2.34,2,1,845,4,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,44700
+Computer Engineering,มหาวิทยาลัยอื่น,3.27,0,4,389,4,Data Analyst,SME,กรุงเทพ,40500
+Cybersecurity,มศว,2.58,3,3,821,0,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,44500
+Software Engineering,เกษตรศาสตร์,3.56,3,5,512,1,Data Scientist,Startup,ปริมณฑล,50500
+Computer Engineering,มศว,3.94,1,0,475,6,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,43800
+Computer Engineering,KMUTT,2.33,3,3,400,1,IT Support,SME,ปริมณฑล,34000
+Data Science,เกษตรศาสตร์,3.21,1,5,629,1,DevOps Engineer,MNC (บริษัทข้ามชาติ),ปริมณฑล,57900
+Information Technology,เชียงใหม่,3.79,2,4,723,8,IT Support,บริษัทใหญ่ไทย,ปริมณฑล,41600
+Cybersecurity,มศว,,2,4,500,8,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,51700
+Computer Engineering,จุฬาลงกรณ์,3.4,3,4,868,2,Data Analyst,บริษัทใหญ่ไทย,ปริมณฑล,51500
+Data Science,ขอนแก่น,2.31,2,0,,8,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,58200
+Cybersecurity,KMUTT,3.75,1,1,926,3,IT Support,Startup,ปริมณฑล,35300
+Computer Engineering,ธรรมศาสตร์,3.56,2,4,571,0,DevOps Engineer,Startup,ต่างจังหวัด,43200
+Computer Science,ขอนแก่น,2.69,2,4,947,5,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,48000
+Information Technology,มหิดล,3.62,0,3,652,6,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,58500
+Computer Science,มศว,2.96,2,1,868,8,Data Scientist,Startup,ปริมณฑล,48800
+Software Engineering,มศว,2.23,2,5,616,8,IT Support,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,44500
+Information Technology,มหิดล,2.92,1,0,448,0,Software Developer,SME,กรุงเทพ,45900
+Cybersecurity,ขอนแก่น,,2,2,,4,DevOps Engineer,Startup,กรุงเทพ,57700
+Software Engineering,ขอนแก่น,2.48,3,2,349,3,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,41800
+Computer Science,เชียงใหม่,2.2,1,5,670,4,IT Support,SME,กรุงเทพ,41900
+Computer Engineering,มหาวิทยาลัยอื่น,3.32,0,1,741,0,Network Engineer,SME,ปริมณฑล,38800
+Computer Science,มศว,,0,3,872,4,IT Support,SME,ปริมณฑล,34800
+Software Engineering,เชียงใหม่,2.59,1,4,,5,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,48400
+Software Engineering,เกษตรศาสตร์,3.49,2,3,839,1,Network Engineer,Startup,กรุงเทพ,44100
+Computer Engineering,ธรรมศาสตร์,,1,5,530,7,UX/UI Designer,บริษัทใหญ่ไทย,ต่างจังหวัด,37800
+Information Technology,เกษตรศาสตร์,2.67,3,2,387,4,IT Support,Startup,กรุงเทพ,28300
+Computer Engineering,จุฬาลงกรณ์,2.45,0,3,524,3,Network Engineer,Startup,กรุงเทพ,39700
+Data Science,มศว,2.51,1,3,955,3,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,42200
+Computer Engineering,KMUTT,2.0,0,1,326,2,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,44200
+Software Engineering,มศว,3.84,3,3,838,7,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,61900
+Information Technology,KMUTT,3.0,3,4,968,,Network Engineer,Startup,ปริมณฑล,42800
+Computer Science,เชียงใหม่,3.54,2,0,369,5,Software Developer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,48600
+Computer Science,ธรรมศาสตร์,2.72,3,0,433,0,IT Support,Startup,กรุงเทพ,29400
+Computer Science,มศว,,2,2,470,4,DevOps Engineer,บริษัทใหญ่ไทย,ปริมณฑล,41800
+Information Technology,KMUTT,3.98,0,1,656,5,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,50500
+Computer Engineering,เกษตรศาสตร์,,0,0,563,2,Software Developer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,39600
+Cybersecurity,จุฬาลงกรณ์,3.19,1,0,806,8,Data Scientist,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,56400
+Information Technology,ธรรมศาสตร์,2.54,2,3,717,2,Data Analyst,บริษัทใหญ่ไทย,กรุงเทพ,46100
+Data Science,KMUTT,3.37,1,4,983,1,IT Support,Startup,ต่างจังหวัด,37700
+Computer Engineering,เชียงใหม่,3.88,1,1,442,4,Network Engineer,SME,กรุงเทพ,44300
+Software Engineering,ธรรมศาสตร์,2.44,0,5,755,7,Data Analyst,SME,ต่างจังหวัด,36500
+Cybersecurity,มหาวิทยาลัยอื่น,3.99,2,3,789,8,IT Support,Startup,กรุงเทพ,42600
+Cybersecurity,มหาวิทยาลัยอื่น,3.71,0,5,511,7,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,43500
+Software Engineering,เชียงใหม่,3.88,2,4,391,1,UX/UI Designer,SME,กรุงเทพ,46400
+Cybersecurity,มหาวิทยาลัยอื่น,,0,3,913,,Software Developer,บริษัทใหญ่ไทย,กรุงเทพ,49100
+Data Science,ขอนแก่น,2.25,1,3,301,6,DevOps Engineer,Startup,ปริมณฑล,42400
+Cybersecurity,จุฬาลงกรณ์,2.71,1,0,,7,DevOps Engineer,Startup,ต่างจังหวัด,39900
+Software Engineering,มหิดล,2.21,1,4,699,1,Data Analyst,SME,กรุงเทพ,43900
+Computer Science,มหิดล,2.68,2,0,805,2,IT Support,บริษัทใหญ่ไทย,กรุงเทพ,45200
+Software Engineering,ธรรมศาสตร์,2.76,1,0,855,9,Data Scientist,บริษัทใหญ่ไทย,กรุงเทพ,53200
+Computer Science,ขอนแก่น,3.36,2,4,479,5,IT Support,MNC (บริษัทข้ามชาติ),ปริมณฑล,48600
+Computer Science,มหิดล,2.12,0,2,629,5,Data Scientist,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,46000
+Computer Science,ธรรมศาสตร์,2.92,1,2,619,4,Data Scientist,บริษัทใหญ่ไทย,ปริมณฑล,47300
+Data Science,เชียงใหม่,2.66,3,2,532,9,Software Developer,Startup,กรุงเทพ,52200
+Cybersecurity,มหาวิทยาลัยอื่น,2.86,0,2,717,7,Data Analyst,Startup,กรุงเทพ,42800
+Data Science,จุฬาลงกรณ์,2.3,3,1,923,2,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,60500
+Software Engineering,เกษตรศาสตร์,2.26,3,4,754,2,Network Engineer,SME,ปริมณฑล,40400
+Information Technology,KMUTT,2.32,1,3,,3,Network Engineer,SME,กรุงเทพ,36700
+Software Engineering,มหาวิทยาลัยอื่น,2.38,0,2,880,4,Network Engineer,Startup,กรุงเทพ,37700
+Data Science,มศว,3.59,1,1,391,4,UX/UI Designer,บริษัทใหญ่ไทย,กรุงเทพ,47200
+Data Science,ขอนแก่น,3.03,3,1,609,0,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,50300
+Software Engineering,KMUTT,2.21,0,1,584,9,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,52200
+Data Science,มหิดล,2.27,0,5,541,0,IT Support,SME,กรุงเทพ,34900
+Cybersecurity,ธรรมศาสตร์,3.51,1,3,614,2,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,58800
+Information Technology,ขอนแก่น,2.9,1,3,577,,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,43800
+Computer Science,มหิดล,2.19,1,4,711,,DevOps Engineer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,45000
+Information Technology,KMUTT,2.35,1,5,602,1,Data Analyst,บริษัทใหญ่ไทย,ปริมณฑล,42400
+Computer Science,เกษตรศาสตร์,2.67,0,0,775,5,Data Analyst,Startup,ต่างจังหวัด,29200
+Cybersecurity,ขอนแก่น,2.46,1,5,605,9,IT Support,MNC (บริษัทข้ามชาติ),กรุงเทพ,45100
+Data Science,ธรรมศาสตร์,2.5,0,3,462,7,Data Scientist,Startup,กรุงเทพ,48800
+Computer Engineering,เชียงใหม่,3.33,1,4,629,6,Software Developer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,49800
+Computer Science,เกษตรศาสตร์,3.66,3,1,409,0,Network Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,51900
+Information Technology,KMUTT,2.4,0,0,958,2,Data Scientist,Startup,กรุงเทพ,42900
+Computer Engineering,เชียงใหม่,3.65,1,3,370,7,Software Developer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,43100
+Information Technology,ธรรมศาสตร์,2.9,1,0,602,7,Data Analyst,บริษัทใหญ่ไทย,ต่างจังหวัด,37800
+Computer Science,เกษตรศาสตร์,2.19,2,2,,1,DevOps Engineer,บริษัทใหญ่ไทย,ต่างจังหวัด,40100
+Computer Science,KMUTT,2.89,3,4,723,7,Data Analyst,Startup,ปริมณฑล,49700
+Information Technology,ธรรมศาสตร์,2.39,3,1,584,7,Data Analyst,SME,กรุงเทพ,41000
+Data Science,เชียงใหม่,3.19,0,0,,0,DevOps Engineer,บริษัทใหญ่ไทย,กรุงเทพ,46200
+Data Science,มศว,2.72,0,2,816,1,Software Developer,MNC (บริษัทข้ามชาติ),ปริมณฑล,49400
+Data Science,มศว,3.62,3,2,427,4,IT Support,SME,ต่างจังหวัด,32800
+Information Technology,มศว,3.52,2,5,846,3,IT Support,SME,กรุงเทพ,41800
+Data Science,มศว,2.11,1,0,,1,UX/UI Designer,Startup,กรุงเทพ,33300
+Data Science,เชียงใหม่,2.15,3,4,489,1,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,52700
+Cybersecurity,เชียงใหม่,2.15,2,4,712,6,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,47700
+Computer Science,เชียงใหม่,2.13,2,1,674,5,Software Developer,Startup,กรุงเทพ,39800
+Cybersecurity,เชียงใหม่,2.01,2,2,728,8,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,53600
+Computer Science,ธรรมศาสตร์,3.64,3,0,952,7,Software Developer,Startup,กรุงเทพ,49100
+Data Science,เชียงใหม่,3.91,1,3,543,6,DevOps Engineer,Startup,กรุงเทพ,49900
+Computer Science,ขอนแก่น,,2,3,335,9,Data Analyst,SME,ต่างจังหวัด,37100
+Computer Engineering,จุฬาลงกรณ์,2.76,3,2,704,3,Software Developer,SME,กรุงเทพ,46700
+Computer Science,มหาวิทยาลัยอื่น,3.01,2,4,549,4,Network Engineer,บริษัทใหญ่ไทย,กรุงเทพ,48500
+Computer Engineering,เชียงใหม่,3.6,1,2,776,3,Data Scientist,SME,ปริมณฑล,50500
+Computer Engineering,ขอนแก่น,,3,4,364,9,Software Developer,MNC (บริษัทข้ามชาติ),กรุงเทพ,57300
+Computer Engineering,KMUTT,3.37,1,4,720,6,Data Analyst,MNC (บริษัทข้ามชาติ),ปริมณฑล,55700
+Information Technology,จุฬาลงกรณ์,3.1,1,1,510,7,UX/UI Designer,MNC (บริษัทข้ามชาติ),กรุงเทพ,51800
+Information Technology,เชียงใหม่,2.44,0,5,966,5,IT Support,SME,กรุงเทพ,30000
+Information Technology,มศว,2.61,2,4,354,7,IT Support,Startup,กรุงเทพ,37100
+Cybersecurity,จุฬาลงกรณ์,3.06,3,2,708,,IT Support,SME,กรุงเทพ,46000
+Information Technology,เชียงใหม่,3.87,1,5,516,5,Data Scientist,บริษัทใหญ่ไทย,ต่างจังหวัด,44800
+Information Technology,มหาวิทยาลัยอื่น,2.11,1,,347,9,Network Engineer,Startup,กรุงเทพ,32300
+Cybersecurity,เกษตรศาสตร์,3.48,2,0,,1,Software Developer,MNC (บริษัทข้ามชาติ),กรุงเทพ,52700
+Software Engineering,เกษตรศาสตร์,2.85,1,5,980,9,Data Analyst,SME,กรุงเทพ,51300
+Software Engineering,KMUTT,2.08,3,1,,9,UX/UI Designer,Startup,กรุงเทพ,44300
+Data Science,มศว,2.36,1,0,498,5,UX/UI Designer,บริษัทใหญ่ไทย,ต่างจังหวัด,36200
+Computer Science,เชียงใหม่,3.67,2,0,801,7,Data Analyst,Startup,ต่างจังหวัด,33800
+Information Technology,เกษตรศาสตร์,2.49,1,0,673,5,Data Scientist,Startup,กรุงเทพ,39800
+Cybersecurity,ขอนแก่น,2.97,3,4,884,6,IT Support,SME,ปริมณฑล,44000
+Computer Science,ธรรมศาสตร์,2.72,3,4,,7,DevOps Engineer,MNC (บริษัทข้ามชาติ),กรุงเทพ,59800
+Cybersecurity,เกษตรศาสตร์,2.89,2,,597,1,IT Support,Startup,ปริมณฑล,34600
+Computer Science,KMUTT,2.36,3,5,934,9,UX/UI Designer,Startup,ปริมณฑล,46200
+Computer Engineering,มหาวิทยาลัยอื่น,2.14,3,1,380,7,UX/UI Designer,SME,กรุงเทพ,37100
+Information Technology,ธรรมศาสตร์,3.86,2,2,691,9,UX/UI Designer,บริษัทใหญ่ไทย,ปริมณฑล,44900
+Data Science,จุฬาลงกรณ์,3.11,1,3,523,4,IT Support,บริษัทใหญ่ไทย,ปริมณฑล,40900
+Data Science,เชียงใหม่,3.05,1,0,558,5,IT Support,Startup,ปริมณฑล,36400
+Cybersecurity,เกษตรศาสตร์,2.85,1,1,759,7,Software Developer,บริษัทใหญ่ไทย,ปริมณฑล,50000
+Cybersecurity,มศว,2.35,2,2,641,1,Software Developer,Startup,ปริมณฑล,36200
+Information Technology,มศว,2.26,2,3,696,4,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,54200
+Cybersecurity,มหาวิทยาลัยอื่น,3.51,1,2,405,9,Network Engineer,Startup,ปริมณฑล,38100
+Computer Engineering,KMUTT,3.6,2,3,883,9,DevOps Engineer,Startup,กรุงเทพ,56800
+Computer Science,จุฬาลงกรณ์,3.57,1,4,561,7,Data Scientist,MNC (บริษัทข้ามชาติ),กรุงเทพ,58900
+Computer Engineering,KMUTT,2.8,0,4,898,1,UX/UI Designer,MNC (บริษัทข้ามชาติ),ปริมณฑล,50100
+Data Science,เชียงใหม่,3.56,3,2,574,4,Data Analyst,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,51800
+Computer Engineering,มหาวิทยาลัยอื่น,3.8,1,0,380,1,Data Scientist,SME,ปริมณฑล,43900
+Data Science,ธรรมศาสตร์,3.67,3,0,753,6,Data Scientist,Startup,กรุงเทพ,53100
+Data Science,เกษตรศาสตร์,3.44,0,1,776,9,UX/UI Designer,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,47000
+Computer Engineering,จุฬาลงกรณ์,3.16,1,4,916,4,Data Analyst,MNC (บริษัทข้ามชาติ),ต่างจังหวัด,45600
+Computer Engineering,เกษตรศาสตร์,2.84,2,5,943,6,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,60200
+Information Technology,จุฬาลงกรณ์,3.27,3,4,962,4,DevOps Engineer,SME,กรุงเทพ,52100
+Information Technology,ขอนแก่น,2.71,2,5,797,6,Data Analyst,MNC (บริษัทข้ามชาติ),กรุงเทพ,54700
+Computer Science,เชียงใหม่,3.25,1,4,560,8,Data Scientist,Startup,ต่างจังหวัด,44900
+Information Technology,เชียงใหม่,,2,4,385,9,Data Analyst,Startup,กรุงเทพ,42200
+Cybersecurity,KMUTT,3.49,1,1,,7,Data Analyst,Startup,ปริมณฑล,46300
+Data Science,เกษตรศาสตร์,2.18,1,0,863,5,Data Analyst,Startup,กรุงเทพ,41800
+Computer Engineering,มศว,3.65,1,2,612,2,Software Developer,MNC (บริษัทข้ามชาติ),ปริมณฑล,50000
