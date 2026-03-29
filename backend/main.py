@@ -16,22 +16,22 @@ app.add_middleware(
 )
 
 # โหลดโมเดล
-gaming_ensemble = joblib.load("models/gaming_ensemble.pkl")
-gaming_nn       = joblib.load("models/gaming_nn.pkl")
-gaming_scaler   = joblib.load("models/gaming_scaler.pkl")
-gaming_imputer  = joblib.load("models/gaming_imputer.pkl")
-gaming_le_dict  = joblib.load("models/gaming_le_dict.pkl")
+gaming_ensemble = joblib.load("../models/gaming_ensemble.pkl")
+gaming_nn       = joblib.load("../models/gaming_nn.pkl")
+gaming_scaler   = joblib.load("../models/gaming_scaler.pkl")
+gaming_imputer  = joblib.load("../models/gaming_imputer.pkl")
+gaming_le_dict  = joblib.load("../models/gaming_le_dict.pkl")
 
-salary_ensemble = joblib.load("models/salary_ensemble.pkl")
-salary_nn       = joblib.load("models/salary_nn.pkl")
-salary_scaler   = joblib.load("models/salary_scaler.pkl")
-salary_imputer  = joblib.load("models/salary_imputer.pkl")
-salary_le_dict  = joblib.load("models/salary_le_dict.pkl")
+salary_ensemble = joblib.load("../models/salary_ensemble.pkl")
+salary_nn       = joblib.load("../models/salary_nn.pkl")
+salary_scaler   = joblib.load("../models/salary_scaler.pkl")
+salary_imputer  = joblib.load("../models/salary_imputer.pkl")
+salary_le_dict  = joblib.load("../models/salary_le_dict.pkl")
 
-with open("models/gaming_y_stats.json") as f:
+with open("../models/gaming_y_stats.json") as f:
     gaming_y_stats = json.load(f)
 
-with open("models/salary_y_stats.json") as f:
+with open("../models/salary_y_stats.json") as f:
     salary_y_stats = json.load(f)
 
 class GamingInput(BaseModel):
